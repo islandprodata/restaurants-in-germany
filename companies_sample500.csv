@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+germany,,JOH0wX8d86r9Bd66pbe2WgBgjCwK,restaurants,linkedin.com/company/gaststätte-huber,ingolstadt,gaststätte huber,bavaria,1-10,
+germany,,g5xFjr1MAkn4BKX7ZCv75gVF8ehp,restaurants,linkedin.com/company/en-elladi,hamburg,en-elladi,hamburg,1-10,en-elladi.business.site
+germany,,KB9XpNug6sc9O2WHMRtOgwzHZ0jP,restaurants,linkedin.com/company/osteria-il-tenore,munich,osteria il tenore,bavaria,1-10,osteriailtenore.de
+germany,,W7NPtr10M1R4BeiW5Mk9vwHnJTwM,restaurants,linkedin.com/company/restaurant-bombay,wuppertal,restaurant bombay,north rhine-westphalia,1-10,bombay-wuppertal.de
+germany,,69ELVFrB8Bc0JiwLg9VZYQgiusRD,restaurants,linkedin.com/company/welt-café,stuttgart,welt café,baden-württemberg,1-10,
+germany,,VG7eJsOxck9fAxN85LWCkwMhL6IQ,restaurants,linkedin.com/company/bmw-kantine,munich,bmw kantine,bavaria,1-10,delistar.de
+germany,,RQtkNW6xBkKnGLJPBcZoowNVvrJG,restaurants,linkedin.com/company/ristorante-guido,rastede,ristorante guido,lower saxony,1-10,ristorante-guido-sasso.de
+germany,,s2V26AbkvfQQTKDdlCHZlwdvDHmm,restaurants,linkedin.com/company/landgasthof-hindelwanger-adler,stockach,landgasthof hindelwanger adler,baden-württemberg,1-10,hindelwanger-adler.de
+germany,,aTzaXMmqeJdYgCk0HCHEwgvufid4,restaurants,linkedin.com/company/café-st.petersburg,berlin friedrichshain,café st.petersburg,berlin,1-10,
+germany,,lAGoknsLCtj6bO8DWfcV6gqm97Gf,restaurants,linkedin.com/company/crema-coffee-bakery,,crema coffee + bakery,,1-10,cremabakery.com
+germany,,Pl3H4pbpdktqtsqGBJZV2QYtdei7,restaurants,linkedin.com/company/barzentral,schorndorf,barzentral,baden-württemberg,1-10,barzentralschorndorf.de
+germany,,F2epwDOigqJtDXa6xJ305APrKniW,restaurants,linkedin.com/company/stadt-suhl,zella-mehlis,stadt suhl,thuringia,1-10,
+germany,,OPSDribhQbWBJ7Sf4dp95QNl0sWV,restaurants,linkedin.com/company/gut-vehr,quakenbrück,gut vehr,lower saxony,1-10,gut-vehr.de
+germany,,NHnYC8FlhTvMh09yXoQE2A8M5DhL,restaurants,linkedin.com/company/junglas,hilgertshausen-tandern,junglas,bavaria,1-10,kunst-design-junglas.de
+germany,,JGTJRcCooBq02TKHV98dEQdE40Kz,restaurants,linkedin.com/company/restaurant-grün,kreuztal,restaurant grün,north rhine-westphalia,1-10,
+germany,,vEHnZZzhMOGOAeYz6G3KDwwJnJeX,restaurants,linkedin.com/company/richards-weineck,lohr am main,richards weineck,bavaria,1-10,
+germany,,sctx4C83V3S44GdealPC8QOhMF8p,restaurants,linkedin.com/company/wassergarten,essen,wassergarten,north rhine-westphalia,1-10,
+germany,,6aaBaAzy4N6WO0pN6GpTBABeBYo6,restaurants,linkedin.com/company/eiscafé-la-piazza,gerolstein,eiscafé la piazza,rhineland-palatinate,1-10,
+germany,,F9Oc5AvTdSwOSCqC3kNsxQ8OpQuO,restaurants,linkedin.com/company/do-mundo,hamburg,do mundo,hamburg,1-10,cafe-domundo.de
+germany,,3aHcYdAVAz4quk1ZHKVWKQBPW7vF,restaurants,linkedin.com/company/b2b-bar-&-bistro-by-stockheim,düsseldorf,b2b bar & bistro by stockheim,north rhine-westphalia,1-10,
+germany,,VwoK6HC2P8o0fQe4Qd68AgrREOnO,restaurants,linkedin.com/company/vita-shop,hamburg,vita shop,hamburg,1-10,
+germany,,ComiXxWwjOx2i3FI5b14PAmoatDv,restaurants,linkedin.com/company/bar-la-floridita,munich,bar la floridita,bavaria,1-10,
+germany,,oqqHFlS3STWA4ip1qiBydQix1HEI,restaurants,linkedin.com/company/fv-mosbach,mosbach,fv mosbach,baden-württemberg,11-50,fv-mosbach.de
+germany,,A9rLMcjxpQerx8csDTS7QAXjaf79,restaurants,linkedin.com/company/cafe-campus,berlin,cafe campus,berlin,1-10,cafe-campus-adlershof.de
+germany,,l53zjc1tns6tVl8yIq5mNw4yydNO,restaurants,linkedin.com/company/eiscafe-palazzo-sandro,landau,eiscafe palazzo sandro,rhineland-palatinate,1-10,palazzo-sandro.de
+germany,,yljrMG7SAd1ZCWi9NpCUig31RtPa,restaurants,linkedin.com/company/lafayette-bistro,berlin,lafayette bistro,berlin,1-10,revebistro.com
+germany,2021,FpJhkK02F8nTJYqE488gcwF7UGIb,restaurants,linkedin.com/company/maximilian-kindel-chef-consulting,berlin,maximilian kindel chef consulting,berlin,1-10,maximiliankindel.de
+germany,,R4INBnnY1nhxi4ri2MHO2A8Hx5YD,restaurants,linkedin.com/company/eisoase,rauen,eisoase,brandenburg,1-10,
+germany,,mYyLpI5IPfQWsmUHEElCsQocaKfe,restaurants,linkedin.com/company/albstollen,bitz,albstollen,baden-württemberg,1-10,
+germany,,tlbYRmjz0MIp5oxSfQCnagHnHWCz,restaurants,linkedin.com/company/restaurant-postwagen,übach-palenberg,restaurant postwagen,north rhine-westphalia,1-10,restaurant-postwagen.de
+germany,,lLpDst4d96oMukiuBfYCvgTO4VR0,restaurants,linkedin.com/company/hamburg-eis,hamburg,hamburg eis,hamburg,1-10,
+germany,,Q0I8aqBGFy67CPzlvr1wdAWYjrM1,restaurants,linkedin.com/company/swinger-club,alt wallmoden,swinger-club,lower saxony,1-10,
+germany,,5bzijanY73ZhLszoBe3PmA0JHaWw,restaurants,linkedin.com/company/liesgen-kunst-&-kuchen,krefeld,liesgen kunst & kuchen,north rhine-westphalia,1-10,
+germany,,VRHdPJegNC2PIX5xFoSB9QQAccS7,restaurants,linkedin.com/company/restaurant-goode-wind,norden,restaurant goode wind,lower saxony,1-10,goodewindnorden.de
+germany,,prJdpZShBnkedSg9XM6PBAsOPPla,restaurants,linkedin.com/company/weingewölbe-nossen---restaurant---nossen,nossen,weingewölbe nossen - restaurant - nossen,saxony,11-50,weingewoelbe-nossen.de
+germany,,RMNvUtthN7gfiJcBsHf1iQrau1bS,restaurants,linkedin.com/company/pizzeria-&-trattoria-di-mare,essen,pizzeria & trattoria di mare,north rhine-westphalia,1-10,di-mare-essen.de
+germany,,hvzxv72J6B14Z0LiHisgJwJ46nXY,restaurants,linkedin.com/company/pension-cafe-am-rheinsteig,leutesdorf,pension cafe am rheinsteig,rhineland-palatinate,1-10,cafe-am-rheinsteig.de
+germany,,hMtKZFcE5wodn8BjllnZmQGccXJO,restaurants,linkedin.com/company/pizza-hot-million,rostock,pizza hot million,mecklenburg-vorpommern,1-10,hotmillion.de
+germany,,DGosbH2hW7yM5dEX85msoQ4RMTS1,restaurants,linkedin.com/company/eisinsel---die-eismacher,munich,eisinsel - die eismacher,bavaria,1-10,
+germany,,DBybm9J6m9TYFCdWF0jiVwsqZVUl,restaurants,linkedin.com/company/prinz-restaurant,laatzen,prinz restaurant,lower saxony,1-10,prinz-restaurant.de
+germany,,e6I6l6URxGtVChIByA3jCAT13qdK,restaurants,linkedin.com/company/fischerhütte-am-schlachtensee,berlin,fischerhütte am schlachtensee,berlin,1-10,fischerhuette-berlin.de
+germany,,LDPVbvewLC3sjBsPCsJhHwnq68Jp,restaurants,linkedin.com/company/cinecittà,mühldorf,cinecittà,bavaria,1-10,cinecitta-muehldorf.de
+germany,,45v1c07rvy1e2XEljqXsmQfcAXTh,restaurants,linkedin.com/company/landgasthaus-schultenhof,dortmund,landgasthaus schultenhof,north rhine-westphalia,1-10,
+germany,2008,oDGipHE0SkT2CKoKa6ZZ5AKABV7V,restaurants,linkedin.com/company/bigman's-pizza,bielefeld,bigman's pizza,north rhine-westphalia,51-200,bigmanpizza.com
+germany,,NVbkMmz4coYsLTJZV3rqzQPiwxtq,restaurants,linkedin.com/company/ristorante-pizzeria-la-corona,hettstadt,ristorante / pizzeria la corona,bavaria,1-10,
+germany,,peeuWYSmRBBf4NI1WWeTBQwKasiJ,restaurants,linkedin.com/company/schnitz-ada-grill,,schnitz ada grill,,1-10,schnitzadagrill.com
+germany,,p9R0QQ5sPRXDlSCatKu1OQsZOmB1,restaurants,linkedin.com/company/villa-bellini,eppelborn,villa bellini,saarland,1-10,
+germany,,t6B7jlBi0208FwKIqEWbRwpSefbk,restaurants,linkedin.com/company/sophieneck,berlin,sophieneck,berlin,1-10,sophieneck-berlin.de
+germany,,E4YOsMaxoqfaiGB8A1jj0wWvTS9X,restaurants,linkedin.com/company/dal-pozzo-di-michele,germersheim,dal pozzo di michele,rhineland-palatinate,1-10,dal-pozzo-di-michele.de
+germany,,HYeljtODVsWtOHYMUdqe8QcMdHSm,restaurants,linkedin.com/company/ristorante-cocorito,sankt ingbert,ristorante cocorito,saarland,1-10,
+germany,,mWILdCOx6EteW4yWOkLXIgEWtBP2,restaurants,linkedin.com/company/palmencafé-hasloh,hasloh,palmencafé hasloh,schleswig-holstein,1-10,palmencafehasloh.de
+germany,,xmWPtrf41uJNhBlaub8KtAlo4GxB,restaurants,linkedin.com/company/cafe-flamenco,olbernhau,cafe flamenco,saxony,11-50,cafe-flamenco.de
+germany,,ruFCwJSDoSeuhQC8b9ATsgB1xtUL,restaurants,linkedin.com/company/zum-tiergarten,velen,zum tiergarten,north rhine-westphalia,1-10,
+germany,,9gBf9Mjkf3c98eMcCjkY8QUeq3yE,restaurants,linkedin.com/company/eiscafe-candiago,eltville am rhein,eiscafe candiago,hesse,11-50,eisistcool.de
+germany,,5TaL6t9gMSLT4Zk3Wmx3aQXnFsJe,restaurants,linkedin.com/company/restaurant-krämer,weiden,restaurant krämer,bavaria,1-10,
+germany,,7YfDQV39hWBoBsKquEEutAi4vCMJ,restaurants,linkedin.com/company/café-kantinchen,viersen,café kantinchen,north rhine-westphalia,1-10,kantinchen.de
+germany,,3r7HRZ82NgfG1V39h567eAMiaaq8,restaurants,linkedin.com/company/dinnery.de,bad neustadt,dinnery.de,bavaria,1-10,dinnery.de
+germany,,InzOBOJ9Sl20v256MMPkCQS2AZcw,restaurants,linkedin.com/company/pizzeria-la-rosa,essen,pizzeria la rosa,north rhine-westphalia,1-10,pizzeria-la-rosa.de
+germany,2003,wwLC3mIlMVq3syBoSjcXrgPcd982,restaurants,linkedin.com/company/röststätte-berlin,berlin,röststätte berlin,berlin,11-50,roeststaette.com
+germany,,xmDuDBtbvFBWHqPgwxpcgws14ABv,restaurants,linkedin.com/company/wurstbraterei,cologne,wurstbraterei,north rhine-westphalia,1-10,
+germany,,00CQUv0M3MXLxEA3i6T8NA0FnpHs,restaurants,linkedin.com/company/sichuan-küche,munich,sichuan küche,bavaria,1-10,sichuan-kueche.de
+germany,2009,0OWUPNxVRiLqxuVsdDWUaQLmDaT4,restaurants,linkedin.com/company/eiscafe-lino,beelen,eiscafe lino,north rhine-westphalia,1-10,eiswagen-carmelo.de
+germany,,o3bl4b4hs0mD5RyTF41GLAx0jw8d,restaurants,linkedin.com/company/café-du-gymnase,neuerburg,café du gymnase,rhineland-palatinate,1-10,cafegymnase.jimdo.com
+germany,,FE2Yowfj6QYYt7IldqS3LA3IQLn2,restaurants,linkedin.com/company/riga's-pizza,berlin friedrichshain,riga's pizza,berlin,1-10,rigas-pizza-box.de
+germany,,2CDCG0Bdnr1itfw6a21NwwYkcFDs,restaurants,linkedin.com/company/mensa-campus,hamburg,mensa campus,hamburg,1-10,
+germany,,5LqaGg8aynHsdbnEtJpYJAkSXwf5,restaurants,linkedin.com/company/gasthaus-zum-wiesental,cadolzburg,gasthaus zum wiesental,bavaria,1-10,gasthaus-zum-wiesental.de
+germany,,qKUBjHWSbsCSQ808QDOcnQSliE3T,restaurants,linkedin.com/company/gda-hotel-neustadt,neustadt an der weinstraße,gda hotel neustadt,rhineland-palatinate,1-10,gda-hotel-neustadt.de
+germany,,Ot0anFRTEa5eqdePr0VDQwWlD5lb,restaurants,linkedin.com/company/pizzeria-salvo,bodenheim,pizzeria salvo,rhineland-palatinate,1-10,pizzeriasalvo.business.site
+germany,,cebMas2XhmduLKCCzozMngk5hxpG,restaurants,linkedin.com/company/jeamis,rostock,jeamis,mecklenburg-vorpommern,1-10,jeamis.de
+germany,,NtLoM74OBV5sQCCUoXzBdQ3FfswO,restaurants,linkedin.com/company/platia-grill,dortmund,platia grill,north rhine-westphalia,1-10,
+germany,,19MKaKCMLy2IFBfqKCImow2F0elO,restaurants,linkedin.com/company/restaurante-romano,nuremberg,restaurante romano,bavaria,11-50,romano-ristorante-pizzeria.de
+germany,,LwdUs5ZU6zE0KIPNYVspUwxM0YQK,restaurants,linkedin.com/company/bamboo-box,erftstadt,bamboo box,north rhine-westphalia,1-10,
+germany,,XYcRYyVICg0JBoCaVhgfaAFzNldT,restaurants,linkedin.com/company/auberge-du-château,pirmasens,auberge du château,rhineland-palatinate,1-10,auberge-chateau.fr
+germany,,OsCSCpi8gXN0GvbxCKuEBwSZ1wWd,restaurants,linkedin.com/company/bonjour-coffee-&-bakery,berlin,bonjour coffee & bakery,berlin,1-10,bonjour-coffee-bakery.eatbu.com
+germany,,RDO1ItiWwjs4ZOPvMcWddAKj3038,restaurants,linkedin.com/company/pizzeria-conte-chiemo,gstadt am chiemsee,pizzeria conte chiemo,bavaria,1-10,conte-chiemo.de
+germany,,JE2zFuoMwGpUeGDZJ3FGgwudpHBx,restaurants,linkedin.com/company/zur-brauschänke,schöneck/vogtland,zur brauschänke,saxony,1-10,
+germany,,O4UAVas34l0bBf7cUJr9twFicgAY,restaurants,linkedin.com/company/gutsgaststätte-rappenhof,weinsberg,gutsgaststätte rappenhof,baden-württemberg,1-10,
+germany,,pOwBPBfILCSyRrHWbRANsQxsV9yr,restaurants,linkedin.com/company/klubhaus-freiberg,freiberg,klubhaus freiberg,saxony,11-50,klubhaus-freiberg.de
+germany,,gfCFeCQMh7RIFA88H156VQDB22Y5,restaurants,linkedin.com/company/taumi-asia-fusion-restaurant,bühl,taumi asia fusion restaurant,baden-württemberg,1-10,
+germany,,7UTi2FHR1LbEpsJQTpsIUA0Z4A7l,restaurants,linkedin.com/company/pizzeria-cortigiano,leipzig,pizzeria cortigiano,saxony,1-10,
+germany,,syq8fjVzrM6aXp6edYGEHQXhZcD1,restaurants,linkedin.com/company/landhaus-schellhorn,preetz,landhaus schellhorn,schleswig-holstein,1-10,
+germany,,3DwQ1C1FVeZ1Zxd0MgTwfQ1d9HBo,restaurants,linkedin.com/company/today’s-pizza,rodgau,today’s pizza,hesse,1-10,
+germany,,PBo68Eps9tRNFpCWJbD1NQQXEGTH,restaurants,linkedin.com/company/fotiou,delingsdorf,fotiou,schleswig-holstein,1-10,
+germany,,F31siRiiRkCcffa1S4CijQv3uEMA,restaurants,linkedin.com/company/ti-menü-service-tiltscher,stuhr,ti-menü-service tiltscher,lower saxony,1-10,ti-menue-service.de
+germany,,0AcrXtEb0ClPlXlucg14iADYTfLC,restaurants,linkedin.com/company/restaurante-trattoria-alberto,berlin,restaurante trattoria alberto,berlin,1-10,trattoria-alberto.de
+germany,,JY3ECrLBzOtjMyLwtd7a2glb9GNB,restaurants,linkedin.com/company/pizzeria-bella-napoli-salvatore-ingenito,berchtesgaden,pizzeria bella napoli salvatore ingenito,bavaria,1-10,pizzeria-bella-napoli-bgd.de
+germany,,Q7dPtwqKmCfRIxisgCZ56wKrlPIm,restaurants,linkedin.com/company/foxy-club,kaiserslautern,foxy club,rhineland-palatinate,1-10,foxyclub.de
+germany,,lO4mDdGK0OjyYBbWJ41ZWwFtBo3g,restaurants,linkedin.com/company/sudhaus-an-der-kunsthalle-würth,schwäbisch hall,sudhaus an der kunsthalle würth,baden-württemberg,1-10,sudhaus-sha.de
+germany,,K9h9NxZI1bLZMAc31qB0yQ09h9Ye,restaurants,linkedin.com/company/welthaus-stuttgart,stuttgart,welthaus stuttgart,baden-württemberg,11-50,welthaus-stuttgart.de
+germany,,VBFAGVUon8GcpLLYsZqCzgPLWC1f,restaurants,linkedin.com/company/roczek’-s,wiesbaden,roczek’ s,hesse,1-10,
+germany,,ze6sUN3MxsltRPOdY0iH4w71Kodi,restaurants,linkedin.com/company/salad-&-lunch-box,biberach an der riß,salad & lunch box,baden-württemberg,1-10,saladlunchbox.de
+germany,,RcC0QNn03lNmPMujkhcEYQwiBGpk,restaurants,linkedin.com/company/xochimilco-café,berlin,xochimilco café,berlin,1-10,xochimilco-cafe.de
+germany,,1KKZUSOO863OVmk3HpBO7ALqd3ad,restaurants,linkedin.com/company/die-kantine-im-behördenzentrum-dresden,dresden,die kantine im behördenzentrum dresden,saxony,1-10,die-kantine-dresden.de
+germany,,2wg5S3GiHABxQcmfpcp24wBJDt6t,restaurants,linkedin.com/company/grünling,templin,grünling,brandenburg,1-10,
+germany,,U8nNzOQJtQPMmHv2de3YVAYa1rEC,restaurants,linkedin.com/company/seewirts-strandhaus,übersee,seewirts strandhaus,bavaria,1-10,seewirts-strandhaus.de
+germany,,eLzqYftbnF2CQjqV5xSdAQ9vmxKd,restaurants,linkedin.com/company/ixmal-sport---fitness---health,mainaschaff,ixmal sport - fitness - health,bavaria,1-10,ixmal.de
+germany,,ZB6n6D9fecBe3bEu5Uy8rg3v2xmC,restaurants,linkedin.com/company/schloß-döttingen,braunsbach,schloß döttingen,baden-württemberg,1-10,
+germany,,yeCP9V2iy1pjjSjgtUtQMgJaWJe3,restaurants,linkedin.com/company/manamana-bar,wacken,manamana bar,schleswig-holstein,1-10,
+germany,,uhIDB46C3rCUypNAlNVgigbGFlpY,restaurants,linkedin.com/company/hamburgeria,,hamburgeria,,1-10,hamburgeria.nl
+germany,,aDsXyByAGBk9BGP6jErxAQbBfFxG,restaurants,linkedin.com/company/la-rotonda-pizza,würselen,la rotonda pizza,north rhine-westphalia,1-10,la-rotonda.com
+germany,,x12y4FeLHqMg3RQSzd9RgwVr4dJF,restaurants,linkedin.com/company/bergers-am-serrahn,hamburg,bergers am serrahn,hamburg,1-10,restaurant-bergers.de
+germany,,ibdv1wCNux3NghQhbPsBOw0mLbpd,restaurants,linkedin.com/company/crazy-shots,frankfurt,crazy shots,hesse,1-10,crazy-shots.net
+germany,,daO52CdY2aK2S2OWBLIVBAVhvV7D,restaurants,linkedin.com/company/peperoncini-cantina-&-bar,börtlingen,peperoncini cantina & bar,baden-württemberg,1-10,peperoncini.de
+germany,,RCBpF01dXyl8JU8TzZPu3wpLQxgM,restaurants,linkedin.com/company/eiscafé-paradiso,lichtenau,eiscafé paradiso,baden-württemberg,1-10,
+germany,,cYM4cd4XKyuavcjZZnTt5A6o7tFO,restaurants,linkedin.com/company/hotel-zum-bär,quedlinburg,hotel zum bär,saxony-anhalt,1-10,hotelzumbaer.de
+germany,,hVNCfI1pY7JLWhhJ99z6owzUVPDS,restaurants,linkedin.com/company/nemrut-kebap,müllheim,nemrut kebap,baden-württemberg,1-10,nemrut-kebap-express.de
+germany,,8UtOObHuq8JbyblvNpYURAbg9k1r,restaurants,linkedin.com/company/rumänische-disko---club-extase,esslingen,rumänische disko - club extase,baden-württemberg,1-10,club-extase.de
+germany,,BtY8CwxXtCq3m5Byphg1lwKujZLs,restaurants,linkedin.com/company/taubensee,ruhpolding,taubensee,bavaria,1-10,hotel-am-taubensee.de
+germany,,osQj4Yk2vRL0FOs1bsBMygRd3M1F,restaurants,linkedin.com/company/goldmarie-am-see,bad segeberg,goldmarie am see,schleswig-holstein,1-10,goldmarieamsee.de
+germany,,Rk7KPPleO52p0EMUQBklkAbZm9xA,restaurants,linkedin.com/company/herzobar,herzogenaurach,herzobar,bavaria,1-10,herzobar.de
+germany,,uBGjRIC6ajBOB6DBsfpDngMitrHK,restaurants,linkedin.com/company/am-kloster,uetersen,am kloster,schleswig-holstein,1-10,restaurant-am-kloster.de
+germany,,nLUBvAUUn7qOVX9g0yPqrwh4s7zi,restaurants,linkedin.com/company/landskron-kultur-brauerei,görlitz,landskron kultur brauerei,saxony,1-10,
+germany,,T0eqGMSHEQcAzlKLY5YUfQwYsTR5,restaurants,linkedin.com/company/restaurant-&-café-hohe-bracht,lennestadt,restaurant & café hohe bracht,north rhine-westphalia,1-10,hohe-bracht.de
+germany,,y2NWBxuymarTPtvld2mk2AjvgTDp,restaurants,linkedin.com/company/sitz-cafe,jena,sitz cafe,thuringia,1-10,
+germany,,skbYTFYie8p367daJnDDCggFLDDJ,restaurants,linkedin.com/company/fleher-hof,düsseldorf,fleher hof,north rhine-westphalia,1-10,fleherhof.de
+germany,,Xcd5yzKNmUaUddf8XeAWeAl2BDUy,restaurants,linkedin.com/company/wiechern,tostedt,wiechern,lower saxony,1-10,
+germany,,hsZq7dDuG5h2XABgY2fWFACkeGSr,restaurants,linkedin.com/company/mittelmeer-restaurant,hemdingen,mittelmeer-restaurant,schleswig-holstein,11-50,mittelmeer-restaurant.com
+germany,,5Nf9gGd1GQJo9MvgAgii8wbQK8rk,restaurants,linkedin.com/company/park-cafe-kleine-schanze,bern,park cafe kleine schanze,north rhine-westphalia,1-10,
+germany,,fbLP0P7CvCcLwDPla5HzgA7p6VJv,restaurants,linkedin.com/company/la-piada,wasserburg am inn,la piada,bavaria,1-10,a.de
+germany,,JlHDwdnhz8oLufWcGArRcwp97fYa,restaurants,linkedin.com/company/hey-pizza,cottbus,hey pizza,brandenburg,1-10,hey-pizza-cottbus.de
+germany,,YteAPaAR4gBC8w4oj0FjYg5ZHEZC,restaurants,linkedin.com/company/pizzeria-alanya,künzell,pizzeria alanya,hesse,1-10,pizzeriaalanya-kuenzell.de
+germany,,bbp3u3B5sac9FGz7tMCTRgKjHUD2,restaurants,linkedin.com/company/el-ensar,wuppertal,el ensar,north rhine-westphalia,1-10,elensar.de
+germany,,RX387eHAKGaklxwkpNUOfQbZnhFX,restaurants,linkedin.com/company/il-mercato,düsseldorf,il mercato,north rhine-westphalia,51-200,il-mercato-duesseldorf.de
+germany,,RClbMB9geC3CDwhmI3rkQAeYzxbY,restaurants,linkedin.com/company/sv-ohrbeck,hasbergen,sv ohrbeck,lower saxony,1-10,svohrbeck.de
+germany,,JxheSNyl8iQLWZG1wR5uNAoHmF4J,restaurants,linkedin.com/company/cafitz,düsseldorf,cafitz,north rhine-westphalia,1-10,
+germany,,hihvptvNQCEjlHFIFmAYkgxlUp8q,restaurants,linkedin.com/company/il-buco-ristorante---hamburg-st.-georg,hamburg,il buco ristorante - hamburg st. georg,hamburg,1-10,
+germany,,cKD7mOyjq7M5CNUtff4AjAvDKpKo,restaurants,linkedin.com/company/due-scalini,berlin,due scalini,berlin,1-10,
+germany,,mUCaruWAKQuAlw6yxJdirwkQkWlS,restaurants,linkedin.com/company/mai-thu,emden,mai thu,lower saxony,1-10,
+germany,,N04nOST15F2Pf6Yb79qvRg87no8b,restaurants,linkedin.com/company/hofwirtschaft-mundenhof,freiburg im breisgau,hofwirtschaft mundenhof,baden-württemberg,11-50,hofwirtschaft-mundenhof.de
+germany,,UibQBtmgh1E75EDM5oo7wA9o7UT7,restaurants,linkedin.com/company/lino-pizza,berlin,lino pizza,berlin,1-10,linopizzaberlin.de
+germany,,BZbgmdgzlnVXU9BRdBsHUwuTfVSs,restaurants,linkedin.com/company/restaurant-ganda,berlin,restaurant ganda,berlin,1-10,ganda-berlin.de
+germany,,Kz2ocC7pP20oR726yG0uNgSoidXz,restaurants,linkedin.com/company/brazileiro,wismar,brazileiro,mecklenburg-vorpommern,1-10,
+germany,,BFmd5B73DIBikGsHgQJosAG9yQHq,restaurants,linkedin.com/company/backöfele,wuerzburg,backöfele,bavaria,1-10,backoefele.de
+germany,,GyWXjlaqMrKBNRTgjRwRLwHQNR7u,restaurants,linkedin.com/company/red-sea-fish,karlsruhe,red sea fish,baden-württemberg,1-10,red-sea-fish.de
+germany,,CoY3vBoA8jE23sBhbZ4ZDgnMsxE3,restaurants,linkedin.com/company/la-rubina,ravensburg,la rubina,baden-württemberg,1-10,larubina.de
+germany,,gaVoIhvvAYuK7CA91ONUDwMSWwmk,restaurants,linkedin.com/company/la-küsine,losheim am see,la küsine,saarland,1-10,lakuesine.de
+germany,,zIBoU7LJChNnsPTr178PygxgpzDb,restaurants,linkedin.com/company/herrlicher,fürstenwalde/spree fürstenwalde,herrlicher,brandenburg,1-10,herrlicher-fuerstenwalde.de
+germany,,JiZzpUdfE21SGVVq7We4TQsnSsY8,restaurants,linkedin.com/company/restaurant-am-see-ivica-dzeko-und-damir-colak-gbr,großkrotzenburg,restaurant am see ivica dzeko und damir colak gbr,hesse,11-50,restaurant-am-see.com
+germany,,Q6liL3HkSnftDC1d4zvCugtd42GZ,restaurants,linkedin.com/company/amici-miei-restourante-&-pizzaria,heikendorf,amici miei restourante & pizzaria,schleswig-holstein,11-50,amici-no1.de
+germany,,0Ru0xaEipMDsbrWm7fwApgfMUQJS,restaurants,linkedin.com/company/ösis---bistro,wuppertal,ösis - bistro,north rhine-westphalia,1-10,
+germany,2017,58KZstCxz2mw8tXvnHnqMAn69DNZ,restaurants,linkedin.com/company/publikum-köln,cologne,publikum köln,north rhine-westphalia,11-50,publikum-location.com
+germany,,7iwNpiuwXCpUXIzRrzwAKAKxW2r2,restaurants,linkedin.com/company/markt-apotheke-in-32839-steinheim,steinheim,markt apotheke in 32839 steinheim,north rhine-westphalia,1-10,marktaposteinheim.de
+germany,,9Fb0IqS4V3emACtzpcRJBwud9apq,restaurants,linkedin.com/company/beleg’bar,münster,beleg’bar,north rhine-westphalia,1-10,belegbar.de
+germany,,V0FGKDU4myxdBBXSyut9LApP0fJT,restaurants,linkedin.com/company/racletterie,rohrdorf,racletterie,bavaria,1-10,racletterie.de
+germany,,Y3WvhUokjZ7TTnOJ9b4ULwNGeQHz,restaurants,linkedin.com/company/adlerhorst-restaurant,weg,adlerhorst restaurant,bavaria,1-10,adlerhorst-lueneburg.de
+germany,,255pkp3ScmHSy1NFmlssaAmgtJ6b,restaurants,linkedin.com/company/restaurant-haus-am-markt,bad saulgau,restaurant haus am markt,baden-württemberg,11-50,restaurant-bad-saulgau.de
+germany,,SezB4D4MnFJo04MFCfHtAQOqIBZK,restaurants,linkedin.com/company/marktstube-peter-steinmann,walldorf,marktstube peter steinmann,baden-württemberg,11-50,steinmann-walldorf.de
+germany,,GB6sEBMEB61ehiUW7UjaewZqf53D,restaurants,linkedin.com/company/ristorante-amedeo,schenklengsfeld,ristorante amedeo,hesse,1-10,ristorante-amedeo.jimdo.com
+germany,,jWNnrWRect4QRbCRVUvBRwVB920d,restaurants,linkedin.com/company/hotel-légère,taunusstein,hotel légère,hesse,51-200,legere-hotel-online.com
+germany,,tmD2l1pCNw89LZz8JCnGgwiNfMrJ,restaurants,linkedin.com/company/mauritz-eck,münster,mauritz eck,north rhine-westphalia,1-10,
+germany,,qlWVAU4xKk9zDpubRyRaMgHFb0Sc,restaurants,linkedin.com/company/servicegesellschaft-klinikum-bad-salzungen-mbh,bad salzungen,servicegesellschaft klinikum bad salzungen mbh,thuringia,1-10,kh-badsalzungen.de
+germany,,Iv7UCzsK3orCxkBjfyC1awgKWWFI,restaurants,linkedin.com/company/angelwitch-bar,,angelwitch bar,,1-10,angelesangelwitch.com
+germany,,RF14ltiB5DqlLFhCCvZaOQjfub6z,restaurants,linkedin.com/company/die-beste-köchin,münchen,die beste köchin,bavaria,1-10,diebestekoechin.com
+germany,,PPtBomoWZ0aDetuFn1GACgjA3Is4,restaurants,linkedin.com/company/cafe-köm,sankt peter-ording,cafe köm,schleswig-holstein,1-10,cafe-koem.de
+germany,,fnaTiK4zY8CpqcxEr9hEpAmyZ4Y7,restaurants,linkedin.com/company/freilichtspiele-tecklenburg,tecklenburg,freilichtspiele tecklenburg,north rhine-westphalia,1-10,freilichtspiele-tecklenburg.de
+germany,2016,PsITbJGgBHSNp4BVZeJMfQAvcUYX,restaurants,linkedin.com/company/restaurant-la-boheme,munich,restaurant la bohème,bavaria,11-50,boheme-schwabing.de
+germany,,LSU10va9loCu3qVktwDdngZiyNWs,restaurants,linkedin.com/company/hotel-und-restaurants,passau,hotel und restaurants,bavaria,1-10,
+germany,,WyosKXL2lfwcXkD99clCXwNLppR8,restaurants,linkedin.com/company/marple-and-stringer,regensburg,marple and stringer,bavaria,1-10,marple-and-stringer.de
+germany,,mOsQYUqOM6kUycarkzusZQIQY5JB,restaurants,linkedin.com/company/grevenbroich-heinrich-urbanczyk-evita---altes-schloss-restaurant,grevenbroich,grevenbroich heinrich urbanczyk evita - altes schloss restaurant,north rhine-westphalia,1-10,evita-gv.de
+germany,,Vd4zna8mzGeqHpDrtBRyVQ7gdEgd,restaurants,linkedin.com/company/restaurant-pizzeria-panorama,freudental,restaurant pizzeria panorama,baden-württemberg,1-10,restaurant-pizzeria-panorama.business.site
+germany,,VDWhDltWk1ocA8INgiQaqArKadaU,restaurants,linkedin.com/company/santiago-bar,berlin,santiago bar,berlin,1-10,
+germany,,LBOBbuOKHCSDeUqVQ5YDWgbZ0wNA,restaurants,linkedin.com/company/il-cortegiano,berlin,il cortegiano,berlin,1-10,
+germany,,xqkfCYPsIy0y8KzsXCPnSQ0wqaSy,restaurants,linkedin.com/company/suppentag,frankfurt,suppentag,hesse,1-10,suppentag.com
+germany,,I6H59xcjqrczMdqWZEzJHQ375bIT,restaurants,linkedin.com/company/gül-restaurant,krumme fohre,gül restaurant,bavaria,1-10,restaurant-guel.business.site
+germany,,m4VoNI3Qi2789NvoomocZgPtiPBm,restaurants,linkedin.com/company/mcfly's-pizza,berlin,mcfly's pizza,berlin,1-10,mcflys-pizza.de
+germany,,zAePPqBC49xU6Cue935Z1Ak7mvB0,restaurants,linkedin.com/company/alexzanders-fischzucht-&-events---40-photos---8-reviews---restaurant,kirchensittenbach,alexzanders fischzucht & events - 40 photos - 8 reviews - restaurant,bavaria,1-10,alexzanders.de
+germany,,ozEGKvWMCBSUXpllvlMfeAAnR238,restaurants,linkedin.com/company/trattoria-la-stella,munich,trattoria la stella,bavaria,1-10,
+germany,,1xWLR2PB5Z324mLfB9I6MwcO3Pdm,restaurants,linkedin.com/company/alt-nordhausen,nordhausen,alt nordhausen,thuringia,1-10,alt-nordhausen.net
+germany,,fur6Bb7YIEnrCkySAh1tyQr2hnIq,restaurants,linkedin.com/company/pisco-de-oro,langenau,pisco de oro,baden-württemberg,1-10,pisco-de-oro.de
+germany,,Xtopq7ZPiTS5KAyxYaPUKAPPf51f,restaurants,linkedin.com/company/capri-heimservice,landstuhl,capri heimservice,rhineland-palatinate,1-10,
+germany,,kC7rabnXIz73RngvFlWQCgZpOmYI,restaurants,linkedin.com/company/osteria-a-modo-mio,mainburg,osteria a modo mio,bavaria,1-10,
+germany,,crn8WeqBEvvTW9TFjsvOPASE1oN3,restaurants,linkedin.com/company/kauz-&-kiebitz,berlin,kauz & kiebitz,berlin,1-10,kauzundkiebitz.de
+germany,,9TAtE3hYeCyEGfidfwioXQQywPh9,restaurants,linkedin.com/company/taj-mehal,gründau,taj mehal,hesse,1-10,tajmehal.de
+germany,,zO9IZo05UnMHqAGJYRNKuwOWSRrj,restaurants,linkedin.com/company/ginos-grill,nuremberg,ginos grill,bavaria,1-10,
+germany,,34U5zHqJtn42Y0tnUR5i9g7zyjzU,restaurants,linkedin.com/company/albrecht.catering,ulm,albrecht.catering,baden-württemberg,1-10,albrecht-catering.de
+germany,,lqIecSrXB0gwxNHOptZi4gHw2eEw,restaurants,linkedin.com/company/camino-tapas-bar,burghausen,camino tapas bar,bavaria,1-10,caminobar.de
+germany,,X3L348MkKfMLf8B5SrEABwdTUjaR,restaurants,linkedin.com/company/vox-restaurant,berlin,vox restaurant,berlin,1-10,vox-restaurant.de
+germany,,7sRxGbp2GJBQX75ZmuPABgkR781v,restaurants,linkedin.com/company/die-kinderküche-catering-gmbh,,die kinderküche-catering gmbh,,1-10,diekinderkueche-catering.de
+germany,,ZZLgx3w91irFYZOWQpQv4Q8zlXPF,restaurants,linkedin.com/company/gasthaus-kostisch--dietzjeskeller,schwirzheim,gasthaus kostisch- dietzjeskeller,rhineland-palatinate,1-10,kostisch.de
+germany,,RNLPjHBXJGJ6t48ZwxC2jwJ53jc7,restaurants,linkedin.com/company/auerbachs-keller,leipzig,auerbachs keller,saxony,1-10,auerbachs-keller-leipzig.de
+germany,,TfmICr4OBZQx0BeFh7n0XQFLU4Zm,restaurants,linkedin.com/company/lehrrestaurant-schwarzkopf,wildau,lehrrestaurant schwarzkopf,brandenburg,1-10,
+germany,,ClEtTAUdAqsyfhumSaBnngetdrGq,restaurants,linkedin.com/company/chinagarten,wegberg,chinagarten,north rhine-westphalia,1-10,chinagartenwegberg.de
+germany,,jrCXYNxpLCNiQgontCbNBQFbLapD,restaurants,linkedin.com/company/tennis-&-bowlingcenter,lebach,tennis & bowlingcenter,saarland,11-50,tennis-bowling.de
+germany,,2rA2jTLm89uwmrDC2xFhDAmxCJmo,restaurants,linkedin.com/company/tsien-yen,hamburg,tsien yen,hamburg,1-10,tsienyen.de
+germany,,J74Yw9voLlWgm1FV1ucCIwMEtG0C,restaurants,linkedin.com/company/black-soul-kitchen,schweinfurt,black soul kitchen,bavaria,1-10,blacksoulkitchen.de
+germany,,X5qP16Db73DVonXd4jAfiwkA1RLa,restaurants,linkedin.com/company/pizzeria-dal-cavallino,flörsheim,pizzeria dal cavallino,hesse,1-10,
+germany,,N1etl58WrVQpeEqbzqJCuQwRBqJ9,restaurants,linkedin.com/company/don-pèrez,pforzheim,don pèrez,baden-württemberg,1-10,donpereztapas.de
+germany,,DE8VQQSQih0bdES0tG6VUwmra6uG,restaurants,linkedin.com/company/samba-cocktailbar,rostock,samba cocktailbar,mecklenburg-vorpommern,1-10,samba.bar
+germany,,jQYC0E1PkudLDR0P5SvRVwz9VUtU,restaurants,linkedin.com/company/falafel-&-schawarma-amanina,dormagen,falafel & schawarma amanina,north rhine-westphalia,1-10,falafel-schawarma-amanina.eatbu.com
+germany,,U9QWzUqbSGejBOMk7djOVAzTCYPr,restaurants,linkedin.com/company/thomas-korn-mittagstisch,friesack,thomas korn mittagstisch,brandenburg,1-10,thomas-korn.de
+germany,,2fsizzXOqxEt3CTwRS37AwfQqKmf,restaurants,linkedin.com/company/restaurant-müllers,leimersheim,restaurant müllers,rhineland-palatinate,11-50,restaurant-muellers-leimersheim.de
+germany,,P9e6X9K7FVNEg1sHfZLCEQaFLJxw,restaurants,linkedin.com/company/beisl,zweibrücken,beisl,rhineland-palatinate,1-10,beisl.de
+germany,,IMT1FcBmugvH35Hin6BVkwzQI2XL,restaurants,linkedin.com/company/henssler-at-gmbh,hamburg,henssler at gmbh,hamburg,1-10,hensslerathome.de
+germany,,rBdNgjrSyOyKBbTws8ZvnwdLBK8w,restaurants,linkedin.com/company/bistro-stasion,bischofsheim,bistro stasion,hesse,1-10,
+germany,,4CRp2B7bAB6eM432e5zzowhwCM3Z,restaurants,linkedin.com/company/cafe-am-hospital,kempen,cafe am hospital,north rhine-westphalia,1-10,
+germany,,YuWj8a9bpwUkii0BBuivCwAfAilM,restaurants,linkedin.com/company/suppe-&-salat,berlin,suppe & salat,berlin,1-10,
+germany,,i34o5aFT4j3BZW9BPMIUjAICXNR6,restaurants,linkedin.com/company/gasthaus-zur-post-olk,ralingen an der sauer,gasthaus zur post olk,rhineland-palatinate,1-10,pension-zur-post.de.vu
+germany,,OjpQW0F1g8hPb0KDm993CAjHwGfH,restaurants,linkedin.com/company/italy-da-umile,geretsried,italy da umile,bavaria,1-10,italydaumile.com
+germany,,PrSNaFdCTg49lk3tMCaJSw4alq2U,restaurants,linkedin.com/company/pizza-antonio,bonn,pizza antonio,north rhine-westphalia,1-10,da-antonio-pizzeria.de
+germany,,FCi3Y3FQS1iBVUmFkMILzw8KquMQ,restaurants,linkedin.com/company/al-capone-pizza,salzgitter,al capone pizza,lower saxony,1-10,alcapone-salzgitter.de
+germany,,zJoIi5Ymoi5XbQEY9vTvugJ0t4ZH,restaurants,linkedin.com/company/kainz-familiengesellschaft-mbh,schwangau,kainz familiengesellschaft mbh,bavaria,1-10,restaurant-kainz.de
+germany,,ljAw1wGhzcU0BiYWhpd8UATfQycK,restaurants,linkedin.com/company/altdeutsche-stuben,marl,altdeutsche stuben,north rhine-westphalia,1-10,altdeutschestuben.de
+germany,,zvUvuPXjSWm2CRGZCpffIgRlCIWA,restaurants,linkedin.com/company/bäckerei-&-konditorei,stollberg/erzgebirge,bäckerei & konditorei,saxony,1-10,cafe-hempel.de
+germany,,eD9PYrIQKhBS25lU79fpHA1wfPLq,restaurants,linkedin.com/company/tuans-hütte,berlin,tuans hütte,berlin,1-10,
+germany,,IkCCeVWTkD8N7MmCVEE6bQzo5K1M,restaurants,linkedin.com/company/gorenshi,frankfurt,gorenshi,hesse,1-10,gorenshi.de
+germany,,a9wv9wrXZzpKFDJUJPE90wn9vpsl,restaurants,linkedin.com/company/pension-weseraue,holzminden,pension weseraue,lower saxony,1-10,pension-weseraue.de
+germany,,QQgQfvUBC5h5BwRuvn1h6AlJddch,restaurants,linkedin.com/company/brittis-cafe,berlin,brittis cafe,berlin,1-10,
+germany,,GcNVy7McFmrnPgTirET5ZA1cXpij,restaurants,linkedin.com/company/blizzeria,rauental,blizzeria,baden-württemberg,1-10,blizzeria.de
+germany,,XMHNJNQDMB5muPbgCWH6Fw5t7qFs,restaurants,linkedin.com/company/rosa-trattoria,düsseldorf,rosa trattoria,north rhine-westphalia,1-10,
+germany,,VGrvs8izuMsNlc7R8fVk1QklM0b3,restaurants,linkedin.com/company/sv-helios-daglfing-sportverein,münchen,"sv helios-daglfing, sportverein",bavaria,1-10,svhd.net
+germany,,XZg9eWIKCm0MMrEUzP9ucgHjVOqb,restaurants,linkedin.com/company/cita-rasa,hamburg,cita rasa,hamburg,1-10,citarasa.de
+germany,,RqnChbKju2tYSiIznKa6SAguawrv,restaurants,linkedin.com/company/café-calypso,neunkirchen/saar,café calypso,saarland,1-10,
+germany,,2pMGogZCn07WBR4CxHWQQQSWXFsa,restaurants,linkedin.com/company/friedrichs106,berlin,friedrichs106,berlin,1-10,friedrichs106.de
+germany,,BSZQLLd20BNCmcbF8hbJYQ5Xj4AF,restaurants,linkedin.com/company/azad’s-shishabar,erfurt,azad’s shishabar,thuringia,1-10,
+germany,,4acbWCC2SMFDXHJSjLOY4wO1SAYX,restaurants,linkedin.com/company/daimlers,munich,daimlers,bavaria,1-10,
+germany,,8cWwoWD8vIynMw2gmVFkIQCYCDvW,restaurants,linkedin.com/company/can-grill,cologne,can grill,north rhine-westphalia,1-10,can-grill.de
+germany,,lQKuqphWEvS50SckJTlDFQPkBPmd,restaurants,linkedin.com/company/lavazza-caffe-espresso-bar,ludwigsburg,lavazza caffe espresso bar,baden-württemberg,1-10,lavazza-ludwigsburg.de
+germany,,ArG5f5YGoU8fi0e1dIXHHgGiq2Ip,restaurants,linkedin.com/company/burritorico,bonn,burritorico,north rhine-westphalia,11-50,burritorico.com
+germany,,6ySSBIoV398BfPKLotuOBQUUukN2,restaurants,linkedin.com/company/creativ-catering,halle,creativ catering,saxony-anhalt,1-10,creativcatering.de
+germany,,HMpizc6HVlXWCaz778BMaAYMwLth,restaurants,linkedin.com/company/katanasushi,hamburg,katana sushi,hamburg,1-10,
+germany,,NDvNtNCzkr9IGWm2F6il5wLCfv1A,restaurants,linkedin.com/company/eckstern,berlin,eckstern,berlin,1-10,
+germany,,wCz6ol8d7XNokOH8Lf2nXAMGahrb,restaurants,linkedin.com/company/the-corner-room-kitchen-&-bar,,the corner room kitchen & bar,,1-10,thecornerroomkitchenandbar.com
+germany,,zALMJgG1O9D48xKSN8Yi6wE2LS26,restaurants,linkedin.com/company/la-dolce-vita-trattoria,berchtesgaden,la dolce vita trattoria,bavaria,1-10,
+germany,,sHyw5Sf6tQxoheIgTQIpTwfE4tRQ,restaurants,linkedin.com/company/doctor-grill,,doctor grill,,1-10,doctorgrill.gr
+germany,,SPyEHoCaxdZjRypkRDy3Ng3WXdI4,restaurants,linkedin.com/company/restaurant-archimedes,delitzsch,restaurant archimedes,saxony,1-10,
+germany,,oUn3ZlFhTdgHMxwMd7CXCwH4nXmK,restaurants,linkedin.com/company/hartweizen-cucina-italiana,berlin,hartweizen cucina italiana,berlin,1-10,hartweizen.com
+germany,,iX2ETxqxzSWkaKzJu7R07ADGVVxy,restaurants,linkedin.com/company/nonnenbräu-,landsberg,nonnenbräu \,bavaria,1-10,xn--nonnenbru-22a.com
+germany,,M4EEFBgSq7HBlmpEwqknlAw9Cib1,restaurants,linkedin.com/company/caterkati,bensheim,caterkati,hesse,1-10,caterkati.de
+germany,,ESCzegz6v1ehzaA8MtEaSgljAs7N,restaurants,linkedin.com/company/dilay,dortmund,dilay,north rhine-westphalia,1-10,
+germany,,AiPoRnpPQ75bAWrgEXgG3QUmCCxW,restaurants,linkedin.com/company/moorbek-cafe,norderstedt,moorbek cafe,schleswig-holstein,1-10,moorbek-cafe.de
+germany,,bzCSslV2cV97IfyM2wdjeAvr4deS,restaurants,linkedin.com/company/bootshaus-des-oldenburger-yachtclubs,oldenburg,bootshaus des oldenburger yachtclubs,lower saxony,1-10,oyc.de
+germany,,8XSH6RZSsvcZmh19ZnvtMgqjnp1w,restaurants,linkedin.com/company/heiß-kalt-getränke-und-catering,westhausen,heiß + kalt getränke und catering,baden-württemberg,1-10,
+germany,,0VIrOqsnOTsAkSaUEHQZmQaveEix,restaurants,linkedin.com/company/griechisches-restaurant-nikos,oberschleißheim,griechisches restaurant nikos,bavaria,1-10,nikos-taverne.de
+germany,,Q4H8mlEFyM5Ksn6m9Rii1wtCGXzz,restaurants,linkedin.com/company/seglermesse-cuxhaven,cuxhaven,seglermesse cuxhaven,lower saxony,1-10,seglermesse-cuxhaven.de
+germany,,CgpGrL5kIpWWvs5oFHCNogdqOYLn,restaurants,linkedin.com/company/pizzaria-piccolo-mondo,rödermark,pizzaria piccolo mondo,hesse,1-10,
+germany,,PHGoZJtf0XA3BuiT0fpvUwA3bJ5Z,restaurants,linkedin.com/company/frühstückszwerge,stuttgart,frühstückszwerge,baden-württemberg,1-10,
+germany,,B38yvjg0CKBviZItfTY4JQkwnaKI,restaurants,linkedin.com/company/olé-olé-tapas,fürth,olé olé tapas,bavaria,1-10,ole-ole-tapas.de
+germany,,ffZXOCXShVbqcZCg4h7DKASAVnip,restaurants,linkedin.com/company/sayuki,heidelberg,sayuki,baden-württemberg,1-10,sayuki.de
+germany,,ETa0NoPKVrrAZ8S9q4vX0gzl7KMV,restaurants,linkedin.com/company/lohnsteuerhilfe-für-arbeitnehmer-e.v.-lohnsteuerhilfeverein-sitz-gladbeck,freyburg,lohnsteuerhilfe für arbeitnehmer e.v. lohnsteuerhilfeverein sitz gladbeck,saxony-anhalt,1-10,
+germany,,hY9ogRbzVmvQHXLJqICKJwTTwb8o,restaurants,linkedin.com/company/l´angolo-bar,grünwald,l´angolo bar,bavaria,1-10,
+germany,,tLbVaDOqEIkN0hXRDn9JoQimBTdN,restaurants,linkedin.com/company/la-fonderie---die-genießerei,leipzig,la fonderie - die genießerei,saxony,1-10,lafonderie.de
+germany,,cSA1fFZB3Bb8b4YoYAeipAcDpaWi,restaurants,linkedin.com/company/ikaros-ii,seelze,ikaros ii,lower saxony,1-10,
+germany,,XxK1m6ZFjlBCQg9Gb8ROXgllzBkv,restaurants,linkedin.com/company/ottenbrucher-bahnhof,wuppertal,ottenbrucher bahnhof,north rhine-westphalia,1-10,ottenbrucher-bahnhof.de
+germany,,kPJXG6ipVwR6GAvOIo1AqQu2tHUX,restaurants,linkedin.com/company/pizzaria-calzone,eichenzell,pizzaria calzone,hesse,1-10,
+germany,,dZcADMwjHCpW4QRLNETZFQv7fwZm,restaurants,linkedin.com/company/café-göbel,laubach,café göbel,hesse,1-10,cafegoebel.de
+germany,,l4vMtPCTgq9Ih4BuYRvWCgB38GSU,restaurants,linkedin.com/company/restaurantschiff-ms-nordertor,husum,restaurantschiff ms nordertor,schleswig-holstein,1-10,
+germany,,UBvokbwWlcZNVIrUeEfqogThV7cB,restaurants,linkedin.com/company/al-yasmin,mainz,al yasmin,rhineland-palatinate,1-10,
+germany,,AG8z9ysdBuwriiBBa3Sk2wBkQ9Ec,restaurants,linkedin.com/company/mahr's-bräu-keller,forchheim,mahr's bräu keller,bavaria,1-10,sternla.de
+germany,,sAmFCo8bRlPBx9vi1rSeYAtuBSpV,restaurants,linkedin.com/company/gaststätte-am-glammi,neustrelitz,gaststätte am glammi,mecklenburg-vorpommern,1-10,
+germany,,17hVWWq3Ex8zJcKjg6ciPwVkcZFj,restaurants,linkedin.com/company/la-villa-pizzeria,duisburg,la villa pizzeria,north rhine-westphalia,1-10,
+germany,,fpXbkwOKFBkqi2QOy8CtMwCLfcZL,restaurants,linkedin.com/company/weingut-ulf-große,radebeul,weingut ulf große,saxony,1-10,weingut-grosse.de
+germany,2018,CCFpRjCcf07fcgpBpoa8CQK4S1B9,restaurants,linkedin.com/company/dorfcafe-simonshofen,lauf,dorfcafé simonshofen,bavaria,1-10,dorfcafe-simonshofen.de
+germany,,Paum8nW8FXgPEDGGDJXUHwurKxNP,restaurants,linkedin.com/company/hahaa,frankfurt,hahaa,hesse,1-10,
+germany,,yiN7dW6o1ykc2Uswh8V3wQXf5bXv,restaurants,linkedin.com/company/ristorante-da-ugo,eich,ristorante da ugo,bavaria,1-10,ristorante-da-ugo.de
+germany,,fv6sVCSCsaIr2sf7IRVbHAGXfVP3,restaurants,linkedin.com/company/schnitzel-paradies,halberstadt,schnitzel-paradies,saxony-anhalt,1-10,
+germany,,MZOmCvn4gQ9jIFW8eJ8hXQmt3CP8,restaurants,linkedin.com/company/ferrari-ristorante,neusäß,ferrari ristorante,bavaria,1-10,
+germany,,oOkTl53ltxqP12vWjRNP8A08qgxO,restaurants,linkedin.com/company/santuccio,harpstedt,santuccio,lower saxony,1-10,
+germany,,gvrEeBW8NHxwNofPiLilewvSmrPy,restaurants,linkedin.com/company/ristorante-il-capriccio,vohenstrauß,ristorante il capriccio,bavaria,1-10,ristorante-il-capriccio-vohenstrauss.jimdosite.com
+germany,,I3tSXPvJmi9zeJYYKBaHcwbDJRpF,restaurants,linkedin.com/company/heroes-premium-burgers,frankfurt,heroes premium burgers,hesse,1-10,heroes-burgers.de
+germany,,67NOc3xTfepmAAxj8HMO7AkaDHOB,restaurants,linkedin.com/company/zum-kühlen-grunde,warendorf,zum kühlen grunde,north rhine-westphalia,1-10,
+germany,,zZ9xBTdegrtvWBs4MYdlFQKmAYyx,restaurants,linkedin.com/company/minimal-bar,berlin friedrichshain,minimal bar,berlin,1-10,minimal-berlin.de
+germany,,YBPtgmOzAqcB2jiB2jZjMADscHUk,restaurants,linkedin.com/company/pizzeria-krone-bei-nino,mindelheim,pizzeria krone bei nino,bavaria,1-10,
+germany,,G8PDB2IYoB0EhlJGjjS7MgI3w5Iz,restaurants,linkedin.com/company/bounissimo,bamberg,bounissimo,bavaria,1-10,
+germany,,uHoDPtAOe7y97CW58u56NQTuT8x5,restaurants,linkedin.com/company/burghaun-burghaun,burghaun,burghaun: burghaun,hesse,1-10,burghaun.de
+germany,,ZB0Bdm8u66PDmRvVgEU3gAnIRotR,restaurants,linkedin.com/company/cafe-parthier,hannover,cafe parthier,lower saxony,11-50,cafe-parthier.de
+germany,,9SaA3mwjCKsSuXzkbfqw1g2C5xvK,restaurants,linkedin.com/company/restaurant-blue-angel,mönchengladbach,restaurant blue angel,north rhine-westphalia,1-10,
+germany,,BsZ48aqL5SmcwoKllz48awvgC9BQ,restaurants,linkedin.com/company/caspars-café-&-bistro,hamburg,caspars café & bistro,hamburg,11-50,caspars-cafe.de
+germany,,Est1815UBszBJDEUy0CBcgfkijjc,restaurants,linkedin.com/company/ihrhover-dorfkrug,westoverledingen,ihrhover dorfkrug,lower saxony,11-50,ihrhover-dorfkrug.de
+germany,,UNtxx9FrgK9EDBrBlMyk6gGsNbHa,restaurants,linkedin.com/company/underground-music-club,kaiserslautern,underground music club,rhineland-palatinate,1-10,
+germany,,h4wdNwkssB1vPijTffZJRgq7ARMO,restaurants,linkedin.com/company/restaurant-rheingold,bad honnef,restaurant rheingold,north rhine-westphalia,1-10,rheingold-badhonnef.de
+germany,,32bXGBEqMngPJaB08KlWrgkOJJws,restaurants,linkedin.com/company/damaskus-haus,cologne,damaskus haus,north rhine-westphalia,1-10,
+germany,,9cRUMnr66d9Hewk7EbWSzAnolji1,restaurants,linkedin.com/company/pascha-restaurant,munich,pascha restaurant,bavaria,1-10,
+germany,,1q2rRlDvZlUrU4jguBHrKQyknxuM,restaurants,linkedin.com/company/glut,speyer,glut,rhineland-palatinate,1-10,
+germany,,CNsWmYaw7qfykHTDMmNgwQSJ6HXB,restaurants,linkedin.com/company/fritz-mitte,jena,fritz mitte,thuringia,1-10,fritzmitte.de
+germany,,gIGVrW8lfyh8rgAnxfjEqQM11Wf6,restaurants,linkedin.com/company/vivovino,weisenheim am sand,vivovino,rhineland-palatinate,1-10,vivovino.de
+germany,,dB8osARrH5emMaj5GHqEAwihKg3j,restaurants,linkedin.com/company/milchstelle.de,burweg,milchstelle.de,lower saxony,1-10,milchstelle.de
+germany,,JHFENHOYnwW4rM9TI3aRpQ2Wboyz,restaurants,linkedin.com/company/feurichs-wirtshaus-malchow,berlin,feurichs wirtshaus malchow,berlin,1-10,feurichswirtshausmalchow.de
+germany,,WBPDBTFbavclHz7OqOeCHgyQf9Rx,restaurants,linkedin.com/company/handelshof-schwerin,güstrow,handelshof schwerin,mecklenburg-vorpommern,1-10,
+germany,,xMwr7Ucm3fOwjFsCZuOyaQ1o7QC4,restaurants,linkedin.com/company/pizzaria-alfredo,,pizzaria alfredo,berlin,1-10,
+germany,,HrIFRyYj8PHNP0DX0qFCBgOwId3p,restaurants,linkedin.com/company/resihuber,munich,resihuber,bavaria,1-10,resihuber.bio
+germany,,nQEnyD9hl9B35KOHrEFitwcprbMS,restaurants,linkedin.com/company/speisemeisterei-stuttgart,stuttgart,speisemeisterei stuttgart,baden-württemberg,11-50,speisemeisterei.de
+germany,,AMzuwXZJXX6YfMk5v8ZjSAVEf7yo,restaurants,linkedin.com/company/da-primo,düsseldorf,da primo,north rhine-westphalia,1-10,daprimo.de
+germany,,DSdl6fqHSZZ8l10aJPHuqgrZJTuM,restaurants,linkedin.com/company/rheinhotel-nierstein,nierstein,rheinhotel nierstein,rhineland-palatinate,1-10,rheinhotel-nierstein.com
+germany,,yCZYfbPbHW1wAOnN90LC0AfCljD9,restaurants,linkedin.com/company/cocina-argentina,frankfurt,cocina argentina,hesse,1-10,cocina-argentina.de
+germany,,lPHd5lB7ZYPtV1ZpiqgIMwSwRQ40,restaurants,linkedin.com/company/delme-werkstätten-ggmbh,syke,delme-werkstätten ggmbh,lower saxony,11-50,
+germany,,Q2qD2exkq5RomH0LUC9McQbTJJlD,restaurants,linkedin.com/company/sardolci,limburg,sardolci,hesse,1-10,sardolci.de
+germany,,xqFxQzKJhtr2F66p3kCUEQhsSOTs,restaurants,linkedin.com/company/krasniqi-gastronomie-gmbh-and-co-kg,kehl,krasniqi gastronomie gmbh and co kg,baden-württemberg,11-50,
+germany,,LlrVhYM11RTDaSjBg4KF9QKw3IgJ,restaurants,linkedin.com/company/restaurant-tajine,bremerhaven,restaurant tajine,bremen,1-10,restauranttajine.de
+germany,,RBlZqOOue6b98coHDV7qlwpoWoIB,restaurants,linkedin.com/company/-official-zur-dicken-emma-big-emma-in-ramstein,ramstein-miesenbach,[official] zur dicken emma | big emma in ramstein,rhineland-palatinate,1-10,dicke-emma.de
+germany,,5696rb5xFjrD4XnuyTngpQa43LVN,restaurants,linkedin.com/company/balzac-coffee,hamburg,balzac coffee,hamburg,1-10,
+germany,,thpAwN7lACbOMaFC9LlrVAdXPWVi,restaurants,linkedin.com/company/akzent-kaffeehaus,landau,akzent kaffeehaus,rhineland-palatinate,1-10,
+germany,,KMOmsAlSgkpnSzCOYylkIA59ZAXe,restaurants,linkedin.com/company/gelateria-san-marco,lübeck,gelateria san marco,schleswig-holstein,1-10,
+germany,,5ciUtXBffzqYUMhKCfjQpgvBkamU,restaurants,linkedin.com/company/hotel-steiner,sehnde,hotel steiner,lower saxony,1-10,hotelsteiner.de
+germany,2015,TQshqaQHqULsKr2CffX0FQHfLw5M,restaurants,linkedin.com/company/luluscoffeeco,aachen,lulus coffee & co.,north rhine-westphalia,1-10,
+germany,2015,CmXdyv9gFvC676OGrxYxagCTWJIY,restaurants,linkedin.com/company/gaumengold®,kempten,gaumengold® essen.trinken.glück!,bavaria,11-50,gaumen-gold.de
+germany,,d25qKbz1dX8I8b6P243gJQs2mtM1,restaurants,linkedin.com/company/trollinger,stuttgart,trollinger,baden-württemberg,1-10,trollingerstubn.de
+germany,,WA9PmHVMOQmWX7Z4ObVDEQvPsMeR,restaurants,linkedin.com/company/baden-bbq-grillteam,hambrücken,baden bbq grillteam,baden-württemberg,1-10,
+germany,,CxqWn31pbOWCRXYjjAlXcwHdl6hr,restaurants,linkedin.com/company/landmetzgerei-witt,tirschenreuth,landmetzgerei witt,bavaria,1-10,
+germany,,alp6wXr35kn4hbONux5kHw1rj6II,restaurants,linkedin.com/company/raoulivini,munich,raoulivini,bavaria,1-10,raoulivini.de
+germany,,T6p5eLaZlHrIyr6ySJkLFwg3qbDB,restaurants,linkedin.com/company/la-locanda-ohlstadt,ohlstadt,la locanda ohlstadt,bavaria,1-10,lalocanda-ohlstadt.de
+germany,,5SIg3xpyLaeymVRWunNuCwkqoFFc,restaurants,linkedin.com/company/bonnie-prince-pub,titisee-neustadt,bonnie prince pub,baden-württemberg,1-10,bonnie.ch
+germany,,jzK6UCXjOQ4PjXT11nEXSQuTJUpg,restaurants,linkedin.com/company/münchner-haus,barth,münchner haus,mecklenburg-vorpommern,1-10,wachterhaus.com
+germany,,WBpcFZ12Sg0a8GGOLuAtBgnEFsZg,restaurants,linkedin.com/company/restaurant-thalassa,dresden,restaurant thalassa,saxony,1-10,restaurant-thalassa.de
+germany,,qFVbEYzNefyJI55whDQCIASgH90s,restaurants,linkedin.com/company/gourmettempel,gescher,gourmettempel,north rhine-westphalia,1-10,
+germany,,7owBqMALOtR1J5yZmgS6hAzxjZC1,restaurants,linkedin.com/company/trattoria-pizzeria-antichi-sapori,holzminden,trattoria-pizzeria antichi sapori,lower saxony,1-10,trattoriapizzeriaantichisapori.business.site
+germany,,Vis30Untcz2CwKeSNyjVCgW4Yzj4,restaurants,linkedin.com/company/café-mono,leipzig,café mono,saxony,1-10,
+germany,,igr4a8UCkhHWcs5uCfbQTwCTLc3I,restaurants,linkedin.com/company/pizzeria-da-francesca-murano,borken,pizzeria da francesca murano,hesse,1-10,
+germany,,GIAAkeBCokHmwy3BkmmPaw5z1bhw,restaurants,linkedin.com/company/restaurant-sale-e-pepe,osterhofen,restaurant sale e pepe,bavaria,1-10,sale-pepe.info
+germany,,uQDq4K3FNJKF6q6f1pohowkVme5n,restaurants,linkedin.com/company/helfenstein,ulm,helfenstein,baden-württemberg,1-10,
+germany,,ivzQPFiCKoZpZ6izu1U8rAsLFBAA,restaurants,linkedin.com/company/ristorante-pizzeria-insieme,planegg,ristorante pizzeria insieme,bavaria,1-10,
+germany,1992,g0qBOINwEX86RyBECCoBEweGDRgN,restaurants,linkedin.com/company/neo-garden-catering,,neo garden catering,,501-1000,neogarden.com.sg
+germany,,U3a42lYXSQpVkHBfdcNgMg3PwlKY,restaurants,linkedin.com/company/pizzeria-ai-due-galli,grafenrheinfeld,pizzeria ai due galli,bavaria,11-50,ai-due-galli.de
+germany,,mOQII5NIRNRXgxoVn6WjUQ2aV38y,restaurants,linkedin.com/company/goya-event-catering,kassel,goya event catering,hesse,11-50,maya-goya.de
+germany,,AR9AsdcpkFwCtqvRBGDBOwvZL66t,restaurants,linkedin.com/company/coccola,heppenheim,coccola,hesse,1-10,coccola-diemacher.de
+germany,,bOtC7G6BSNSmhfXpa2HASA9KJK3S,restaurants,linkedin.com/company/mundfein-pizzawerkstatt,nienburg,mundfein pizzawerkstatt,lower saxony,1-10,mundfein-henstedt-ulzburg.de
+germany,,lITAG8nps7ChPBxdQuirXg89XQuE,restaurants,linkedin.com/company/tapas-y-vino,münster,tapas y vino,north rhine-westphalia,1-10,tapas-y-vino.de
+germany,1991,NKOJ1reMQv2GEDflXmOSIgZgXvTE,restaurants,linkedin.com/company/hanse-menü-dienst-u.-senioren-verpflegung-lübeck-gmbh,lübeck,hanse menü-dienst und senioren-verpflegung lübeck gmbh,schleswig-holstein,51-200,hanse-md.de
+germany,,ydVoCPEmwiCh0aJUkiegjw7QJmTs,restaurants,linkedin.com/company/hermosa-beach-fish-shop,,hermosa beach fish shop,,1-10,hbfishshop-hub.com
+germany,,QKKQkKSu8sM5loB7rRzTXgLiaI1E,restaurants,linkedin.com/company/don-camillo-express-pizzaservice-carmelo-giummarra,wutöschingen,don camillo express pizzaservice carmelo giummarra,baden-württemberg,1-10,wt-pizza.de
+germany,,MXvBO2paHIU6xf9aMntygAZhvyg6,restaurants,linkedin.com/company/porto-bello,reit im winkl,porto bello,bavaria,51-200,portobello-restaurant.de
+germany,,DfgBadePZqJhN6RG49C14AuZPGNg,restaurants,linkedin.com/company/laggis,leipzig,laggis,saxony,1-10,laggis.de
+germany,,vzGi90uK9AuVlCAVKnF6wAPWaIhG,restaurants,linkedin.com/company/ristorante-villa-garzoni,,ristorante villa garzoni,,1-10,ristorantevillagarzoni.it
+germany,,KYOBfvu0dSdWZUbYAVwE5gP1buhQ,restaurants,linkedin.com/company/stadtwald-grill,mönchengladbach,stadtwald grill,north rhine-westphalia,1-10,stadtwaldgrill.de
+germany,,oakCBGBVATOn4DctuTQI4QjO8jkV,restaurants,linkedin.com/company/konoba-adria,hamburg,konoba adria,hamburg,1-10,konoba-adria.de
+germany,,f4L0pu8Nojr5jriUraOXUQc41sV1,restaurants,linkedin.com/company/cannone-bar---gola-&-vino,munich,cannone bar - gola & vino,bavaria,1-10,cannonebar.de
+germany,,BUf8iXrUeWGdqzACKJ0YvAwNDhCV,restaurants,linkedin.com/company/afroditi,buckenhof,afroditi,bavaria,1-10,
+germany,,CGChoMy5Ao3ODRIRGV1ELgrq7QJw,restaurants,linkedin.com/company/landhotel-&-gasthof-keils-gut,wilsdruff,landhotel & gasthof keils-gut,saxony,1-10,keilsgut.de
+germany,,DirrBT6VTkMKttgPsTqocAZ0Azuy,restaurants,linkedin.com/company/restaurant-sultans,dresden,restaurant sultans,saxony,1-10,
+germany,,wczCcSRVJBVUy2WzBsMAcAIGOHyK,restaurants,linkedin.com/company/brothaus-café,erlangen,brothaus café,bavaria,1-10,
+germany,,ajUzrp5BsSBXxhnp5hPAjgSxyy0m,restaurants,linkedin.com/company/ludwigsluster-schlosscafe,ludwigslust,ludwigsluster schlosscafe,mecklenburg-vorpommern,1-10,
+germany,,8Sh3k19geqQJukzGHQ9o5w2RhFom,restaurants,linkedin.com/company/kleine-pause,hamburg,kleine pause,hamburg,1-10,kleine-pause.de
+germany,,eBMCzOxjKxy0nT08sBkmRgYuB6G7,restaurants,linkedin.com/company/stadtküche-hettstedt-gmbh,hettstedt,stadtküche hettstedt gmbh,saxony-anhalt,1-10,bestellung-stadtkueche-hettstedt.de
+germany,,xmHeKlfCZsLdNbz9pC6TLgzG4P7k,restaurants,linkedin.com/company/berghotel-königstuhl-gmbh,heidelberg,berghotel königstuhl gmbh,baden-württemberg,1-10,koenigstuhl-heidelberg.de
+germany,,04s1QPCf6Or6T03eBB2IMQ1CfrXT,restaurants,linkedin.com/company/caffé-da-me,munich,caffé da me,bavaria,1-10,caffe-dame.de
+germany,,jrLFoTo0T5z8vzr9CJXiLQXN7Rjg,restaurants,linkedin.com/company/pizzeria-al-gambero,lohne,pizzeria al gambero,lower saxony,1-10,
+germany,,iCvsDURksFCtDp8IduFMlAsm2JaG,restaurants,linkedin.com/company/harput-grill,melle,harput grill,lower saxony,1-10,ff-community.de
+germany,,kzUAHgZ8voPneUbuqcZHjwe6UaDW,restaurants,linkedin.com/company/mitropa-city-gastronomie,frankfurt,mitropa city gastronomie,hesse,1-10,
+germany,,Qii9EKq8ppa6a2w2WnkVfweqxA8l,restaurants,linkedin.com/company/famdang,berlin,famdang,berlin,1-10,famdang.de
+germany,,35tuW1Zq7AmskG4KrUBMOgb8pp4l,restaurants,linkedin.com/company/arctis-tiefkühl-backwaren,ehningen,arctis-tiefkühl-backwaren,baden-württemberg,1-10,arctis.de
+germany,,BvCNnc5N8wdzjBFlZaU2tAeCIQn5,restaurants,linkedin.com/company/restaurant-tandoor-pizza-speedy,isny im allgäu,restaurant tandoor / pizza speedy,baden-württemberg,1-10,
+germany,,5YJvk1CItEnKMsVD9xb6KQQdASPx,restaurants,linkedin.com/company/cafe-denise,potsdam,cafe denise,brandenburg,1-10,
+germany,,TV1OMZ8Ccvo1jQ53kY0xkgxz29uc,restaurants,linkedin.com/company/furat,kerpen,furat,rhineland-palatinate,1-10,furat.de
+germany,,Y70G3Lt7VsWzMEBMio7sqQxjsXbh,restaurants,linkedin.com/company/restaurant-tripoli,husum,restaurant tripoli,schleswig-holstein,1-10,restaurant-tripoli.de
+germany,,NaKLz2ktlLGFNAiDCu1k8Qo8G45R,restaurants,linkedin.com/company/maethai-thai-imbiss,augsburg,maethai thai-imbiss,bavaria,1-10,maethaiaugsburg.de
+germany,,DZx1lKWm2U3Hq3BEFyEeog9m4jzw,restaurants,linkedin.com/company/hekofolit-heinz-koch,rödermark,hekofolit heinz koch,hesse,1-10,hekofolit.de
+germany,,YZHR9Mkv3xlsEtMHbJ5x0wxiJqmu,restaurants,linkedin.com/company/ristorante-scala,bremerhaven,ristorante scala,bremen,1-10,ristorante-scala.de
+germany,,TdC5ysgWRBoy6o8VA8wQnQApGrWU,restaurants,linkedin.com/company/pizza-hell---teuflisch-gut,heidelberg,pizza hell - teuflisch gut,baden-württemberg,1-10,
+germany,,Re8MEAflDOv7xXM5yfiCVwIkdPwF,restaurants,linkedin.com/company/red-snapper-inn,,red snapper inn,,1-10,redsnapperinn.com
+germany,,9A7RuoblRxwf5OJBe8sFww4gmCIP,restaurants,linkedin.com/company/basdorf,vöhl,basdorf,hesse,1-10,basdorf-hats.de
+germany,,Yo3FSk2vUyn4OiJ8o99KAQxgGOFP,restaurants,linkedin.com/company/boll-burger,kaiserslautern,boll burger,rhineland-palatinate,1-10,bollburger.de
+germany,,pSfo9kEC1jGvoBarCV4V3AGL9NF5,restaurants,linkedin.com/company/karuna-café-pavillon,berlin friedrichshain,karuna café pavillon,berlin,1-10,karunaberlin.de
+germany,,kxAE6M0OVjtSLPBqyCJsPAqXDRhx,restaurants,linkedin.com/company/der-wok,wertheim,der wok,baden-württemberg,1-10,derwok-wertheim-bestenheid.de
+germany,,9WCT5HCXnNRiftKNeXfZ9QH5FgaX,restaurants,linkedin.com/company/hotel-restaurant-zum-buchenberg-rodt,sankt augustin,hotel restaurant zum buchenberg rodt,north rhine-westphalia,1-10,hotelrauschen.be
+germany,,cMMonI0dwFZqbWt1gLzM5QChgOup,restaurants,linkedin.com/company/mühlencafé,elmshorn,mühlencafé,schleswig-holstein,1-10,willkommensteamelmshorn.wordpress.com
+germany,,z6xHqOBrDa9RlcFKNUsglABXP591,restaurants,linkedin.com/company/eismanufaktur-zeitgeist,mannheim,eismanufaktur zeitgeist,baden-württemberg,1-10,eis.jetzt
+germany,,sE7CBkMcoKeceBQCy0LWNQ3r6xTa,restaurants,linkedin.com/company/osteria-da-francesco,hamburg,osteria da francesco,hamburg,1-10,osteria-da-francesco.de
+germany,,oKHd9jzGptYy9MwA7CIJmQqkEbpE,restaurants,linkedin.com/company/bürgermeisterei,celle,bürgermeisterei,lower saxony,1-10,
+germany,,lE2nZBtrc8rPsCrAiV89vA5XevWg,restaurants,linkedin.com/company/catering-&-partyservice,undenheim,catering & partyservice,rhineland-palatinate,1-10,catering-grissu.de
+germany,,EilTU0SBCVpnMx0SwaOLcw4dbNsE,restaurants,linkedin.com/company/strandcafe-silbermoewe,sankt peter-ording,strandcafe silbermoewe,schleswig-holstein,1-10,strandcafe-silbermoewe.de
+germany,,uHdp6s4rpYyN8LABKBCCeQRKIpTn,restaurants,linkedin.com/company/fc-magnet-bar,berlin,fc magnet bar,berlin,1-10,fcmagnetbar.de
+germany,,vvYIO8h81ShKE7HsDi6xyAQiAMqX,restaurants,linkedin.com/company/restaurant-antik,dresden,restaurant antik,saxony,1-10,restaurant-antik.de
+germany,,kocAs44IUgvIBPxAB74COAhGzGri,restaurants,linkedin.com/company/vino-stefano,konstanz,vino stefano,baden-württemberg,1-10,vinostefano.de
+germany,,tmThi1hNwR9AFVPUnbWofgQPw1rD,restaurants,linkedin.com/company/cafe-callisto,schweinfurt,cafe callisto,bavaria,1-10,callisto-cafe.de
+germany,2020,C5NYubBlBw42vOCweqBrsgYX0kTT,restaurants,linkedin.com/company/terra-dell'-etna,bremen,terra dell' etna,bremen,1-10,terradelletna.de
+germany,,j5pi7Op6GBI1BdDNWJ4BLgyjG5zA,restaurants,linkedin.com/company/ristorante-il-ruscello,winhöring,ristorante il ruscello,bavaria,1-10,
+germany,,REzoa55celArzuJJ0PYVzw3cKQuk,restaurants,linkedin.com/company/pizzeria-fontana,hof,pizzeria fontana,bavaria,1-10,
+germany,,ewBCCxyrkyEIDZnmgFdzQQmNLhSI,restaurants,linkedin.com/company/gelateria-porta-romana,cologne,gelateria porta romana,north rhine-westphalia,1-10,
+germany,,ab939gZXjAZcqeAEcfBHhQ53rT2e,restaurants,linkedin.com/company/pizzeria-zur-alten-post,kleinheubach,pizzeria zur alten post,bavaria,1-10,zuraltenpost-beifranco.de
+germany,,rrbuChF9Zayf9PMhDOewzAC0wEpx,restaurants,linkedin.com/company/costa-smeralda,drensteinfurt,costa smeralda,north rhine-westphalia,11-50,ristorante-costa-smeralda.com
+germany,,bV6285BnqNTXDg82Lrb30AjljlER,restaurants,linkedin.com/company/pizzeria-luciano,pirmasens,pizzeria luciano,rhineland-palatinate,1-10,pizzeria-luciano-pirmasens.de
+germany,,i7TjUewEgSh6kPmlOvIcjwbnxtyc,restaurants,linkedin.com/company/kien-du-kiang-thong,berlin,kien-du-kiang-thong,berlin,1-10,
+germany,,KuTId22cklnTrErwPJKgMQEA3ILm,restaurants,linkedin.com/company/restaurant-pavarotti,bammental,restaurant pavarotti,baden-württemberg,1-10,pizzeria-eiscafe-pavarotti.de
+germany,,oZuQAB9HmXeSyjAZUB7UgQFCBRvR,restaurants,linkedin.com/company/la-villa-ristorante-pizzeria,neunburg vorm wald,la villa ristorante pizzeria,bavaria,1-10,neunburg-essen.de
+germany,,eMKFNIwZ8lGBxzIz3r2gqAEyxygZ,restaurants,linkedin.com/company/la-tabisca,rechberghausen,la tabisca,baden-württemberg,1-10,latabisca.de
+germany,,wgPpndm3raEF41IXixaGCwKPzRzU,restaurants,linkedin.com/company/restaurant-tandem,neustadt am rübenberge,restaurant tandem,lower saxony,1-10,restauranttandem.com
+germany,,evmVZ5TABWEVDrzA8pPLrACirYgE,restaurants,linkedin.com/company/aalhaus,hamburg,aalhaus,hamburg,1-10,aalhaus.de
+germany,,ZWMJUWOmxXvJ5kF9dxn9vgVtSEno,restaurants,linkedin.com/company/pizzeria-michelangelo,weilburg,pizzeria michelangelo,hesse,1-10,pizzeria-michelangelo-weilburg.de
+germany,,9Ov7NLyDv6CzLBCV2eLvMwiLM062,restaurants,linkedin.com/company/kebap-deniz,koblenz,kebap deniz,rhineland-palatinate,1-10,
+germany,,yaYOM06hAfnEJS3F9AQ7cQLviRLa,restaurants,linkedin.com/company/beim-griechen,bergisch gladbach,beim griechen,north rhine-westphalia,1-10,restaurant-beim-griechen.de
+germany,,kD58Kjlb5K1IMCv9MEmLkAM8SB87,restaurants,linkedin.com/company/villa-merton,frankfurt,villa merton,hesse,1-10,restaurant-villa-merton.de
+germany,,c7gczt2piZ1x9o4HFxqEeQcFQnhY,restaurants,linkedin.com/company/general-post-office-gpo-,berlin,general post office (gpo),berlin,1-10,gpo.berlin
+germany,,P0zRpLpNQRSCV3NQfBUsigbjN96e,restaurants,linkedin.com/company/restaurant-gefsis,bitterfeld,restaurant gefsis,saxony-anhalt,1-10,gefsis.de
+germany,,lGWSVESCLbftuX0MzaF2MwOuvk4C,restaurants,linkedin.com/company/bötzow-baude,berlin,bötzow baude,berlin,1-10,
+germany,,QDAzuSiPIhQCSFg8oBcCLQfF2nKD,restaurants,linkedin.com/company/ristorante-basilico,überlingen,ristorante basilico,baden-württemberg,1-10,pizzeria-ueberlingen.de
+germany,,N4HJJhK0TnyZtpOlmVhHeAFyzitl,restaurants,linkedin.com/company/schipperhus-pellworm,pellworm,schipperhus pellworm,schleswig-holstein,11-50,schipperhus-pellworm.de
+germany,,RXU7yOvTqreFmZ009VRHqAKbHCAB,restaurants,linkedin.com/company/scoozi-alpen,alpen,scoozi alpen,north rhine-westphalia,1-10,scoozi-alpen.de
+germany,,plCIFNigjajU7dxXiqZCxArRzvhM,restaurants,linkedin.com/company/johnny's-bar---karibisches-restaurant,berlin kreuzberg,johnny's bar - karibisches restaurant,berlin,1-10,johnnys-bar-berlin.com
+germany,,G70vGEGfQXuGqu5Ix5tscgb6NNrX,restaurants,linkedin.com/company/bio--laden,mülheim an der ruhr,bio- laden,north rhine-westphalia,1-10,biologisch-terjung.de
+germany,,8DbiWTfxDnQfARnEgTAMiQbLHYca,restaurants,linkedin.com/company/oscars-restaurant-bar-&-musik,esslingen,"oscars restaurant , bar & musik",baden-württemberg,1-10,
+germany,,2JQY8v13OjMAQHkEVHDRswWm8jqF,restaurants,linkedin.com/company/joe's-grill-&-cantina,,joe's grill & cantina,,1-10,joesfortsmith.com
+germany,,W0jN0p7xWCC5cEic297a6wZVWedP,restaurants,linkedin.com/company/cafuchico,frankfurt,cafuchico,hesse,1-10,cafuchico.de
+germany,,mHaS95ThSTTdqwRlSk3jBgMq2xYK,restaurants,linkedin.com/company/elbcafé-richter,nünchritz,elbcafé richter,saxony,1-10,elbcafe-richter.de
+germany,,ngm4yOSUTTZvBTWXBxy8DAcRNbD1,restaurants,linkedin.com/company/pizzeria-la-boheme-,apen,"pizzeria la boheme,",lower saxony,1-10,
+germany,,JiwEHBHNJuafL9DJKl89nAfvz4T7,restaurants,linkedin.com/company/wispel-pub,quedlinburg,wispel pub,saxony-anhalt,1-10,
+germany,,WErGp6ucuroAqas1NW2NvwKxmmfV,restaurants,linkedin.com/company/kavárna-sokolovna,deutschneudorf,kavárna sokolovna,saxony,1-10,sokolovna-litvinov.cz
+germany,,VJsTuv67evOgFCJpNBGlfgPqOcYE,restaurants,linkedin.com/company/can-ocakbaşı,salzkotten,can ocakbaşı,north rhine-westphalia,1-10,
+germany,,KeO9YHmZNY37tzMBGmC6FwxrWruj,restaurants,linkedin.com/company/eichetti-confect-spezialität--en-a.-eichelmann,werneck,eichetti confect spezialität- en a. eichelmann,bavaria,1-10,
+germany,,thn9z8vKJqbx6KgdPKEhTwiW5ynC,restaurants,linkedin.com/company/osteria-malandra-restaurant,ismaning,osteria malandra restaurant,bavaria,1-10,osteria-malandra.de
+germany,,BD2Jjfuw7Se6Ccy9qi5Twwg1VBpC,restaurants,linkedin.com/company/fratelli-miccoli,bremen,fratelli miccoli,bremen,1-10,
+germany,,fcuNthLXIeRfatBuPiaMpQOf4rIP,restaurants,linkedin.com/company/pintxos-tapas-&-pasión,karlsruhe,pintxos tapas & pasión,baden-württemberg,1-10,
+germany,,GzpQCuFCCTxBTkrvhCW4dgC2GZab,restaurants,linkedin.com/company/tom’s-café,regenstauf,tom’s café,bavaria,1-10,
+germany,,3FABi10EkCDMyczTRKSe1QaIxYCg,restaurants,linkedin.com/company/trattoria-taverna,paderborn,trattoria taverna,north rhine-westphalia,1-10,
+germany,,G50rACoT93gQbGjAFCJZyAVfU5xH,restaurants,linkedin.com/company/pizzeria-häcklingen,lüneburg,pizzeria häcklingen,lower saxony,1-10,pizzeria-haecklingen.de
+germany,,HwXwUTgE4AvC4MZL2nJcNAArsVhG,restaurants,linkedin.com/company/sofra-family-bistro,,sofra family bistro,,1-10,sofrabistro.com
+germany,,REpxWcFLzeJ6YBaDol95OQNM9Qq2,restaurants,linkedin.com/company/parkhotel-hotel,essen,parkhotel hotel,north rhine-westphalia,1-10,parkhotel-norderstedt.de
+germany,,RFDIrmhey70wpNlWfDEuFA6K1xPb,restaurants,linkedin.com/company/pizzeria-nuova-italia,essen,pizzeria nuova italia,north rhine-westphalia,1-10,
+germany,,f5CVyRVBgtPkAb30CPzPGAuwrTgN,restaurants,linkedin.com/company/bistro-moselschlößchen,traben-trarbach,bistro moselschlößchen,rhineland-palatinate,1-10,
+germany,,dQyPCOzhvzeDUigmnheCRAOCuyM6,restaurants,linkedin.com/company/rigoletto-ristorante-restaurant,pinneberg,rigoletto ristorante restaurant,schleswig-holstein,11-50,rigoletto-pinneberg.de
+germany,,ue3cEBhlQCRCDr6OlSyHdQsE6YVr,restaurants,linkedin.com/company/döner-factory,bremen,döner factory,bremen,1-10,doener-factory-bremen.de
+germany,,R0xg1RuzquCvpX7EvtpYVAwJ6mfW,restaurants,linkedin.com/company/poccino-im-kö-bogen,düsseldorf,poccino im kö-bogen,north rhine-westphalia,1-10,
+germany,,L3nPlf5piJrDsBQHrYKPagg7Sjoy,restaurants,linkedin.com/company/pizza-tommaso,freigericht,pizza tommaso,hesse,1-10,tomassos-pizza.com
+germany,,hXcoOs37U2ytwIvXEE4mBwS0CHBe,restaurants,linkedin.com/company/eiscafé-rizzello,solingen,eiscafé rizzello,north rhine-westphalia,1-10,
+germany,,S7VimTtNVJLNKl4lBQTndgxMTucz,restaurants,linkedin.com/company/ristorante-galileo,berlin,ristorante galileo,berlin,1-10,ristorantegalileo.de
+germany,,d810lLN7KKqYeTBBwlxyaA22CVJl,restaurants,linkedin.com/company/catering-manufaktur-cucina-italiana-barbara-sobotka-rössler,hamburg,catering manufaktur cucina italiana barbara sobotka-rössler,hamburg,1-10,catering-italia.de
+germany,,41EXDdFG8QP0Rc7a02CyOQYw1vPE,restaurants,linkedin.com/company/millenium-pizza,bretten,millenium pizza,baden-württemberg,1-10,tsv-duerrenbuechig.jimdo.com
+germany,,TCGgF0IzkE2pBsJjlf1iLQ0QswJz,restaurants,linkedin.com/company/syrtaki-griechisches-restaurant,mühlhausen,syrtaki griechisches restaurant,thuringia,1-10,syrtaki.org
+germany,,po4ZSKR81gpqVjFryMF3Ywbhve8h,restaurants,linkedin.com/company/starbucks-coffee-house,münster,starbucks coffee house,north rhine-westphalia,1-10,
+germany,,nKiNOo8Bmv6wBMKx2ILYRAwc3PWO,restaurants,linkedin.com/company/pizzeria-lieferservice-le-castelle,wartenberg,pizzeria lieferservice le castelle,bavaria,1-10,
+germany,,yehlvXmWcDZVkN2zxge3BQNpQGNv,restaurants,linkedin.com/company/felice-ristorante-&-pizzeria,heilbronn,felice ristorante & pizzeria,baden-württemberg,1-10,felice-hn.de
+germany,,CSolE86sPFQ3pkE6lL3BIgYIDgsq,restaurants,linkedin.com/company/party-fee-die-serviceagentur-u.-winnefeld,holzminden,party-fee die serviceagentur u. winnefeld,lower saxony,1-10,party-fee.de
+germany,,NhEap2GPCJk83RxQyoXeZgrQaK81,restaurants,linkedin.com/company/lohner-&-grobitsch,munich,lohner & grobitsch,bavaria,1-10,lohnerundgrobitsch.de
+germany,,gEXrocGZucnpMIPp7OpAKQ99gmjB,restaurants,linkedin.com/company/cremagelato,taufkirchen,cremagelato,bavaria,1-10,
+germany,,jdeGK4NipVC5Oj0qBK31PAEchZyC,restaurants,linkedin.com/company/restaurant-minamoto,basel,restaurant minamoto,north rhine-westphalia,1-10,minamoto-restaurant.ch
+germany,,jxgcPvk3jtwNDgQBoS331AxINacC,restaurants,linkedin.com/company/bravo-pizza-express,jettingen-scheppach,bravo pizza express,bavaria,1-10,bravo-pizza-express.de
+germany,,QcBT7rFQVhRt89rfAd7I2ALmMNYX,restaurants,linkedin.com/company/il-terrazzo,braunschweig,il terrazzo,lower saxony,11-50,ilterrazzo.de
+germany,,mWCQbacAXt3v9hPickHSZQbTchPa,restaurants,linkedin.com/company/nammos-griechische-restaurant,grünwald,nammos griechische restaurant,bavaria,1-10,nammos-restaurant.de
+germany,,Ti6hJHuAJZsLZxiG9h47DgcBgAH9,restaurants,linkedin.com/company/restaurant-hai-pin,dresden,restaurant hai pin,saxony,1-10,restauranthaipin.de
+germany,,deW5BztIxfUkIWJzovyGSgpjVTxy,restaurants,linkedin.com/company/schweinswirt,amberg,schweinswirt,bavaria,1-10,
+germany,,zLYz2G0I0jCC1YZsBdGSWgAcmXth,restaurants,linkedin.com/company/café-karl,bonn,café karl,north rhine-westphalia,1-10,cafekarl.de
+germany,,nomcB0TysKCqbrMmdGxeEAruMVNM,restaurants,linkedin.com/company/space-bowling,forchheim,space bowling,bavaria,1-10,up-sports.de
+germany,,ITrLZCj3j9Mo5XW7QuCLBw0ARxjO,restaurants,linkedin.com/company/cafe-sant-angelo,berlin,cafe sant angelo,berlin,1-10,
+germany,,wkIwPxdGpvvRWZAJpjBwGAPNr30U,restaurants,linkedin.com/company/restaurant-goodtime,berlin,restaurant goodtime,berlin,1-10,
+germany,,7BS7cIrSg6Ae0hxtZBT0nwlfcRbE,restaurants,linkedin.com/company/vogelsang-catering-ihr-eventdienstleister,karsbach,vogelsang catering ihr eventdienstleister,bavaria,1-10,vogelsang-catering.de
+germany,,OBqCGzBQWZyQf87XHSLw3Q4yRO9X,restaurants,linkedin.com/company/kalkwerk,lengefeld,kalkwerk,saxony,1-10,
+germany,,bGoeFvY8vYeLh3adUjTRYguEALaS,restaurants,linkedin.com/company/gasthaus-attendorn,attendorn,gasthaus attendorn,north rhine-westphalia,1-10,gasthaus-attendorn.com
+germany,,MzzzlVgpxFkCnHi0ZBFBmQtTo4u3,restaurants,linkedin.com/company/daspark,bad bellingen,daspark,baden-württemberg,1-10,cafe-im-park-bb.de
+germany,,cDKzEgSDdnbf35imjcnowQ2HCJIx,restaurants,linkedin.com/company/lang-sen,lübeck,lang sen,schleswig-holstein,1-10,lang-sen.de
+germany,,dGUco7rDcj28qRAVWiZK5AyrS7HK,restaurants,linkedin.com/company/zoë-2-sofabar---su-b,hamburg,zoë 2 sofabar - su*b,hamburg,1-10,zoebar.de
+germany,,l3n3pvzzoNhwx0OVR4wzZwDpREom,restaurants,linkedin.com/company/sushi-am-bach,memmingen,sushi am bach,bavaria,1-10,
+germany,,WKyKxmTVibzVXZBWyRY5QQ5dPTLz,restaurants,linkedin.com/company/bar-de-vin,berlin,bar de vin,berlin,1-10,
+germany,,FFJALjv5zu4mPH5tnyfd6gwxOYJl,restaurants,linkedin.com/company/café-9-bar,darmstadt,café 9 bar,hesse,1-10,cafe9bar.de
+germany,,MsTYKI4uCgjXgHJijn2v0AepAUpN,restaurants,linkedin.com/company/ble-noir-crêperie,kiel,ble noir crêperie,schleswig-holstein,1-10,blenoir-kiel.de
+germany,,Ig47qRDFFpm5aTpuuq8mlAeIJM9U,restaurants,linkedin.com/company/amadeus-restaurant-&-bar,stuttgart,amadeus restaurant & bar,baden-württemberg,1-10,
+germany,,P5s06BFNvZGqCkMuJi6K2Ay9LJWR,restaurants,linkedin.com/company/gudiess,forchheim,gudiess,bavaria,1-10,gudiess.de
+germany,,TdzNenkrBtLoEarTN1vHfwaCtoQn,restaurants,linkedin.com/company/m-eis-&-kaffee,düsseldorf,m eis & kaffee,north rhine-westphalia,1-10,m-kaffee.de
+germany,,i3EPScLz4gyO7r7sjoeRfAyfzDqf,restaurants,linkedin.com/company/savigny-hotel-frankfurt-city-messe,frankfurt,savigny hotel frankfurt city messe,hesse,1-10,savigny-hotel.com
+germany,,cGHiD1Og5PQOId4OPoN1rAGbkeQZ,restaurants,linkedin.com/company/noi-ristorante-e-vinoteca,ennepetal,noi ristorante e vinoteca,north rhine-westphalia,1-10,noi.one
+germany,,FZYNZTKDL9emNpYqMAfeVQOoFaaX,restaurants,linkedin.com/company/coar-die-cateringarchitekten-gmbh,schwetzingen,coar die cateringarchitekten gmbh,baden-württemberg,1-10,coar-catering.de
+germany,,1Jq3dK9kK0xlliisdDpE4AuTMUZs,restaurants,linkedin.com/company/akakiko-running-sushi,regensburg,akakiko running sushi,bavaria,1-10,
+germany,,FDcdlADJecfW5Q67XB1kLgEMUQ40,restaurants,linkedin.com/company/leprechaun-irish-pub,ellwangen,leprechaun irish pub,baden-württemberg,1-10,isch-kult.de
+germany,,5yBMgzBniNe7jCaCKY9a7wynvq0b,restaurants,linkedin.com/company/pfeifer-catering-the-partymaker,trier,"pfeifer catering, the partymaker",rhineland-palatinate,1-10,pfeifer-catering.de
+germany,,BQYF8dTXPPHHDvOT5YFsWg6lGfIh,restaurants,linkedin.com/company/afro-mixx,berlin,afro mixx,berlin,1-10,afro-mixx.de
+germany,,cCO3zW56efGpBhtbNLZXvgKl6ZWo,restaurants,linkedin.com/company/bremer-teehandelskontor,hannover,bremer teehandelskontor,lower saxony,1-10,
+germany,,ZiyUR7P6Mt7kpWcxWg5vIA7YwEZx,restaurants,linkedin.com/company/blieskastel,blieskastel,blieskastel,saarland,11-50,blieskastel-altheim.de
+germany,,hcaQy4yT8mMsdc2XLlC29g1AxJlt,restaurants,linkedin.com/company/verde-system-gastronomie-gmbh,berlin,verde system gastronomie gmbh,berlin,1-10,verde-system-gastronomie-gmbh.business.site
+germany,,mNqqIyCGnoXSiBOMCCfCGgLHmalv,restaurants,linkedin.com/company/fette-sau,cologne,fette sau,north rhine-westphalia,1-10,
+germany,,pTTp3CHhFFZHhHWeiSBOlQ697rUP,restaurants,linkedin.com/company/traumfänger-&-milchdieb-gmbh-pension,friedland chossewitz,traumfänger & milchdieb gmbh pension,brandenburg,1-10,tfmd-gmbh.de
+germany,,jTioRDOv2vdv9cJ6sBIDIgmDaPOA,restaurants,linkedin.com/company/cafe-il-giardino,fuldabrück,cafe il giardino,hesse,1-10,
+germany,,joY0rMz3lAR8AxJYeJlKCwR9v6N3,restaurants,linkedin.com/company/brasserie-adler-cafe-blank,munderkingen,brasserie adler /cafe blank,baden-württemberg,1-10,cafe-blank.de
+germany,,cBMXHVY2KWgXuvVuZIK6TQdIHzQ7,restaurants,linkedin.com/company/ristorante-boccaccio-restaurant,ulm,ristorante boccaccio restaurant,baden-württemberg,1-10,
+germany,,C0caSX9yhNFcRSTrQcrBagQabpPK,restaurants,linkedin.com/company/captain-bligh,rostock,captain bligh,mecklenburg-vorpommern,1-10,
+germany,,otsimieh0HE58N8PdZZwSA3fYp8h,restaurants,linkedin.com/company/ochsen-hotel-restaurant,binzen,ochsen hotel-restaurant,baden-württemberg,11-50,ochsen-binzen.de
+germany,,FPiYaisLKvmKJkv83hBEqAZCOGsC,restaurants,linkedin.com/company/trattoria-don,idstein,trattoria don,hesse,1-10,trattoria-donlillo.de
+germany,,MUUkxAK8PonsRuQqTMuHKg89Uiyx,restaurants,linkedin.com/company/zur-gemütlichkeit,mömbris,zur gemütlichkeit,bavaria,1-10,rappach.de
+germany,,S81UYg0rCNFF1nIaepVXUg3xRrDr,restaurants,linkedin.com/company/osteria-da-francesco-restaurant,hamburg,osteria da francesco restaurant,hamburg,11-50,da-francesco.de
+germany,,lPpi86RyJB0qP6hBQ6wchAq5mQWt,restaurants,linkedin.com/company/pizzeria-prima,frankfurt,pizzeria prima,brandenburg,1-10,pizzeriaprima-bergheim.de
+germany,,I6TtCXSVrdVSuY2epZghPw9k8gOW,restaurants,linkedin.com/company/hotel-nordraum,bremen,hotel nordraum,bremen,1-10,hotel-nordraum.de
+germany,,OofdztLqrP6lxsBv6H43zwyuzdPi,restaurants,linkedin.com/company/jägerheim-ützdorf-hotel-und-restaurant-am-liepnitzsee-ralf-geiseler,wandlitz,jägerheim ützdorf hotel und restaurant am liepnitzsee ralf geiseler,brandenburg,1-10,hotel-am-liepnitzsee.de
+germany,,PqYg2r9LfhXmdTtwg6T3EAoslZLi,restaurants,linkedin.com/company/restaurant-fleißiges-liezchen,karben,restaurant fleißiges liezchen,hesse,1-10,fleissiges-liezchen.de
+germany,,om2RG2ETskyv0BgSwkyq9w9KyWL8,restaurants,linkedin.com/company/pizzeria-restaurante-alt-bugramm,sankt aldegund,pizzeria restaurante alt bugramm,rhineland-palatinate,1-10,pizzeria-restaurante-alt-bugramm.business.site
+germany,,GoBh7C7QXXA13yKgQXkhbwdEBqkZ,restaurants,linkedin.com/company/genusshelden,hamburg,genusshelden,hamburg,1-10,diegenusshelden.de
+germany,,YvFxqaMTIgKOMHZEC1W76QkpwqXQ,restaurants,linkedin.com/company/chapeau-bistro,burgwedel,chapeau bistro,lower saxony,1-10,
+germany,,XxhjPbuhUr0OhPp91c2YZQxI1kv4,restaurants,linkedin.com/company/veranda-im-travel-charme-hotel,ostseebad zinnowitz,veranda im travel charme hotel,mecklenburg-vorpommern,1-10,
+germany,,4jIpOv1WtCiTmbhnCrEccAwcyphl,restaurants,linkedin.com/company/die-sportgaststätte,ammersbek,die sportgaststätte,schleswig-holstein,1-10,die-sportgaststaette.de
+germany,,jvG59DcJCa88rHhBg28lgQJms8rE,restaurants,linkedin.com/company/schwarzer-stern,frankfurt,schwarzer stern,hesse,1-10,
+germany,,ICNGatFuhJwMybOtX3PFLgAzas9k,restaurants,linkedin.com/company/körri,hamburg,körri,hamburg,1-10,koerri-deutschland.de
+germany,,buCHYLYN8owyxBB64VZEnABz0FSf,restaurants,linkedin.com/company/gasthof-dorfkrug,daisendorf,gasthof dorfkrug,baden-württemberg,1-10,gasthof-dorfkrug.de
+germany,,qs4Qq0hetDCPczuvagjMHQbxMXBO,restaurants,linkedin.com/company/annelies,neunkirchen/saar,annelies,saarland,1-10,
+germany,,X7FQSaNXBC6GMb4SI0i0VQ6rOe80,restaurants,linkedin.com/company/girasole-im-nerotal,wiesbaden,girasole im nerotal,hesse,1-10,girasole-im-nerotal.de
+germany,,AaKAfavvArLHy8EzsXbfVwvSKgQw,restaurants,linkedin.com/company/restaurant-ayutthaya,bergisch gladbach,restaurant ayutthaya,north rhine-westphalia,1-10,
+germany,,UXlCqcsUFauT0QwYNtydTgL1Ua4B,restaurants,linkedin.com/company/saimons,nieblum,saimons,schleswig-holstein,1-10,saimons.de
+germany,,QDz38UHsCHoBgx9wjkGgjQMiOwnY,restaurants,linkedin.com/company/café-soho,stuttgart,café soho,baden-württemberg,1-10,
+germany,,qJAYWV8OLAfGkAFguTBUwAa7JVi7,restaurants,linkedin.com/company/der-leyenhof,bonn,der leyenhof,north rhine-westphalia,1-10,derleyenhof.de
+germany,,VAgBnXlqDAN2aIKIjPruWw42zSxp,restaurants,linkedin.com/company/berrygood-frozen-yogurt,dresden,berrygood frozen yogurt,saxony,11-50,berrygood.de
+germany,1970,VIiajmVHFldBCCqjSy5kPAiCXPh5,restaurants,linkedin.com/company/sv-rödinghausen,rödinghausen,sv rödinghausen,north rhine-westphalia,11-50,svroedinghausen.de
+germany,,nHoXPyBbHlKCOECM5CHBoQjd1X6h,restaurants,linkedin.com/company/ristorante-milanobar,siegburg,ristorante milanobar,north rhine-westphalia,1-10,ristorante-milanobar.de
+germany,,6tZ8zid3qqL4ZclJdaB13QXi9XEV,restaurants,linkedin.com/company/kurhaus-bad,bad herrenalb,kurhaus bad,baden-württemberg,1-10,kurhaus-badherrenalb.de
+germany,,DUcCgmdIjzXQ6hjli589pwVaddLL,restaurants,linkedin.com/company/sushi-plus-münchen,münchen,sushi plus münchen,bavaria,1-10,
+germany,,qM2ItKXrkVpLC3J5qKIMvQOA6jWS,restaurants,linkedin.com/company/café-zikade,cologne,café zikade,north rhine-westphalia,1-10,cafezikade.de
+germany,,VJA4ObjrdOKViznZhnFO9AY5olyq,restaurants,linkedin.com/company/schloss-berlepsch,witzenhausen,schloss berlepsch,hesse,11-50,schlossberlepsch.de
+germany,,0prY6m2KskljAMgYQRAlxw5H65GT,restaurants,linkedin.com/company/martins-bistro,erfurt,martins bistro,thuringia,1-10,
+germany,,0ScrSrv4AFNeCtCTBmQWPgfpWW1M,restaurants,linkedin.com/company/zur-fischerklause,dreieich,zur fischerklause,hesse,1-10,
+germany,,UBvb4IsF1mDwiDh9aYTGYAesMZL2,restaurants,linkedin.com/company/irish-pub-in-the-fleetenkieker,hamburg,irish pub in the fleetenkieker,hamburg,1-10,irishpub-fleetenkieker.de
+germany,,uOxyvw8nAED1wSv1l92GJwWBYlzO,restaurants,linkedin.com/company/nikos-grill,krefeld,nikos grill,north rhine-westphalia,1-10,nikosgrillkrefeld.de
+germany,,TpOk5EgwupUKn6RjZjYVFga1kdZT,restaurants,linkedin.com/company/em-äädjeschoss,kerpen,em äädjeschoss,north rhine-westphalia,1-10,em-aeaedjeschoss.de
+germany,,CAi1SKruyyZ0NqtQtMxnfwJszbAs,restaurants,linkedin.com/company/la-papillote,mainz,la papillote,rhineland-palatinate,1-10,lapapillote.de
+germany,,JG1We4LA4TSE6pGryggTIQyxUx8Q,restaurants,linkedin.com/company/nashi-restaurant,seligenstadt,nashi restaurant,hesse,1-10,
+germany,,JKkF2JNrPAPgqhWsdP2BbwPjMcMD,restaurants,linkedin.com/company/restaurant-evzin,esslingen,restaurant-evzin,baden-württemberg,1-10,restaurant-evzin.de
+germany,,QHow3lNw1cogV1IIzXlfHgJ6i2X5,restaurants,linkedin.com/company/landgasthof-und-pension-schmidt,remptendorf,landgasthof und pension schmidt,thuringia,1-10,landgasthof-schmidt.de
+germany,,4OKEzFWpfjw0sU13oAMqMQBwn3x3,restaurants,linkedin.com/company/zur-birke,kulmbach,zur birke,bavaria,1-10,zur-birke-kulmbach.de
